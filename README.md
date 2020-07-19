@@ -7,7 +7,9 @@ Course Objectives The objective of this course is to introduce the fundamental c
 We have 3 assignments. 
 
 ## Project
-
+We have 2 Projects.
 
 ## Exam
-Exam1
++ Exam1 (34 Questions in 1 Hour)
++ Exam2 (xx Questions in 1 Hour)
++ Final Exam
