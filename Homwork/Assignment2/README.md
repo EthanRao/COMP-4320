@@ -12,6 +12,7 @@ There are 6 questions; make sure you answer all the questions.
 
 
 
+
 **2. Suppose within your Web browser you click on a link to obtain a Web page. The IP address for the associated URL is not cached in your local host, so a DNS lookup is necessary to obtain the IP address. Suppose that d DNS servers are visited before your host receives the IP address from DNS; the successive visits incur an RTT of RTT1, ..., RTTd. Further suppose that the Web page associated with the link contains exactly one object, consisting of a small amount of HTML text. Let RTTx denote the RTT between the local host and the server containing the object. Assume that the transmission time of the object is dt. How much time elapses from when the client clicks on the link until the client receives the object.**
 
 
@@ -30,6 +31,7 @@ There are 6 questions; make sure you answer all the questions.
 
 
 
+
 **5. Consider the scenario introduced in Question (4) above. Now suppose that the link is shared by John with five other users. John uses parallel instances of non- persistent HTTP, and the other five users use non-persistent HTTP without parallel downloads.**
 
   + Do John’s parallel connections help him get Web pages more quickly? Why or why not?
@@ -38,11 +40,13 @@ There are 6 questions; make sure you answer all the questions.
   
   
   
+  
 **6. Consider the following institutional network that is connected to the Internet.**
 
 ![image](https://github.com/EthanRao/COMP-4320/blob/master/Homwork/IMG/Question6.jpg)
 
 **Suppose that the average object size is 560,000 bits and that the average request rate from the institution’s browsers to the origin servers is 25 requests per second. Also suppose that the amount of time it take from when the router on the Internet side of the access link forwards an HTTP request until it receives the response is 2.5 seconds on average (see Section 2.2.5). Model the total average response time as the sum of the average access delay (that is, the delay from Internet router to institution router) and the average Internet delay. For the average access delay, use α/(1- αλ), where α is the average time required to send an object over the access link and λ is the arrival rate of objects to the access link.**
+
 
   + a. Find the total average response time.
   
