@@ -4,7 +4,7 @@
 
 *All homework assignments must be completed by each student individually. Any copying of someone else's work, or misrepresentation of other work as your own, will be grounds for failing this assignment or the course.*
 
-**Penalty for late work is 20 points per day late.**
+Penalty for late work is 20 points per day late.
 
 ## There are 6 questions; make sure you answer all these questions.
 
