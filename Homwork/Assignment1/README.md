@@ -6,7 +6,7 @@
 
 Penalty for late work is 20 points per day late.
 
-There are 6 questions; make sure you answer all these questions.
+## There are 6 questions; make sure you answer all these questions.
 
 **1. Suppose that an application repeatedly transmits data at an irregular rate, i.e. repeatedly transmit 640 Kbits of data for .3 seconds, 520 Kbits of data for the next .4 second and 480 Kbit for the next .3 second. When such an application starts, it will continually running for a relatively long period of time. Answer the following questions, briefly justifying your answers:**
 
