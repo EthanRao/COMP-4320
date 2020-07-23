@@ -1,0 +1,1995 @@
+The ip address is/104.145.92.29
+Now Sending request packet
+Ready to receive packets
+Now received packet's segment number is : 1
+Now received packet's segment number is : 2
+Now received packet's segment number is : 3
+Now received packet's segment number is : 4
+Now received packet's segment number is : 5
+Now received packet's segment number is : 6
+Now received packet's segment number is : 7
+Now received packet's segment number is : 8
+Now received packet's segment number is : 9
+Now received packet's segment number is : 10
+Now received packet's segment number is : 11
+Now received packet's segment number is : 12
+Now received packet's segment number is : 13
+Now received packet's segment number is : 14
+Now received packet's segment number is : 15
+Now received packet's segment number is : 16
+Now received packet's segment number is : 17
+Now received packet's segment number is : 18
+Now received packet's segment number is : 19
+Now received packet's segment number is : 20
+Now received packet's segment number is : 21
+Now received packet's segment number is : 22
+Now received packet's segment number is : 23
+Now received packet's segment number is : 24
+Now received packet's segment number is : 25
+Now received packet's segment number is : 26
+Now received packet's segment number is : 27
+Now received packet's segment number is : 28
+Now received packet's segment number is : 29
+Now received packet's segment number is : 30
+Now received packet's segment number is : 31
+Now received packet's segment number is : 32
+Now received packet's segment number is : 33
+Now received packet's segment number is : 34
+Now received packet's segment number is : 35
+Now received packet's segment number is : 36
+Now received packet's segment number is : 37
+Now received packet's segment number is : 38
+Now received packet's segment number is : 39
+Now received packet's segment number is : 40
+Now received packet's segment number is : 41
+Now received packet's segment number is : 42
+Now received packet's segment number is : 43
+Now received packet's segment number is : 44
+Now received packet's segment number is : 45
+Now received packet's segment number is : 46
+Now received packet's segment number is : 47
+Now received packet's segment number is : 48
+Now received packet's segment number is : 49
+Now received packet's segment number is : 50
+Now received packet's segment number is : 51
+Now received packet's segment number is : 52
+Now received packet's segment number is : 53
+Now received packet's segment number is : 54
+Now received packet's segment number is : 55
+Now received packet's segment number is : 56
+Now received packet's segment number is : 57
+Now received packet's segment number is : 58
+Now received packet's segment number is : 59
+Now received packet's segment number is : 60
+Now received packet's segment number is : 61
+Now received packet's segment number is : 62
+Now received packet's segment number is : 63
+Now received packet's segment number is : 64
+Now received packet's segment number is : 65
+Now received packet's segment number is : 66
+Now received packet's segment number is : 67
+Now received packet's segment number is : 68
+Now received packet's segment number is : 69
+Now received packet's segment number is : 70
+Now received packet's segment number is : 71
+Now received packet's segment number is : 72
+Now received packet's segment number is : 73
+Now received packet's segment number is : 74
+Now received packet's segment number is : 75
+Now received packet's segment number is : 76
+Now received packet's segment number is : 77
+Now received packet's segment number is : 78
+Now received packet's segment number is : 79
+Now received packet's segment number is : 80
+Now received packet's segment number is : 81
+Now received packet's segment number is : 82
+Now received packet's segment number is : 83
+Now received packet's segment number is : 84
+Now received packet's segment number is : 85
+Now received packet's segment number is : 86
+Now received packet's segment number is : 87
+Now received packet's segment number is : 88
+Now received packet's segment number is : 89
+Now received packet's segment number is : 90
+Now received packet's segment number is : 91
+Now received packet's segment number is : 92
+Now received packet's segment number is : 93
+Now received packet's segment number is : 94
+Now received packet's segment number is : 95
+Now received packet's segment number is : 96
+Now received packet's segment number is : 97
+Now received packet's segment number is : 98
+Now received packet's segment number is : 99
+Now received packet's segment number is : 100
+Now received packet's segment number is : 101
+Now received packet's segment number is : 102
+Now received packet's segment number is : 103
+Now received packet's segment number is : 104
+Now received packet's segment number is : 105
+Now received packet's segment number is : 106
+Now received packet's segment number is : 107
+Now received packet's segment number is : 108
+Now received packet's segment number is : 109
+Now received packet's segment number is : 110
+Now received packet's segment number is : 111
+Now received packet's segment number is : 112
+Now received packet's segment number is : 113
+Now received packet's segment number is : 114
+Now received packet's segment number is : 115
+Now received packet's segment number is : 116
+Now received packet's segment number is : 117
+Now received packet's segment number is : 118
+Now received packet's segment number is : 119
+Now received packet's segment number is : 120
+Now received packet's segment number is : 121
+Now received packet's segment number is : 122
+Now received packet's segment number is : 123
+Now received packet's segment number is : 124
+Now received packet's segment number is : 125
+Now received packet's segment number is : 126
+Now received packet's segment number is : 127
+Now received packet's segment number is : 128
+Now received packet's segment number is : 129
+Now received packet's segment number is : 130
+Now received packet's segment number is : 131
+Now received packet's segment number is : 132
+Now received packet's segment number is : 133
+Now received packet's segment number is : 134
+Now received packet's segment number is : 135
+Now received packet's segment number is : 136
+Now received packet's segment number is : 137
+Now received packet's segment number is : 138
+Now received packet's segment number is : 139
+Now received packet's segment number is : 140
+Now received packet's segment number is : 141
+Now received packet's segment number is : 142
+Now received packet's segment number is : 143
+Now received packet's segment number is : 144
+Now received packet's segment number is : 145
+Now received packet's segment number is : 146
+Now received packet's segment number is : 147
+Now received packet's segment number is : 148
+Now received packet's segment number is : 149
+Now received packet's segment number is : 150
+Now received packet's segment number is : 151
+Now received packet's segment number is : 152
+Now received packet's segment number is : 153
+Now received packet's segment number is : 154
+Now received packet's segment number is : 155
+Now received packet's segment number is : 156
+Now received packet's segment number is : 157
+Now received packet's segment number is : 158
+Now received packet's segment number is : 159
+Now received packet's segment number is : 160
+Now received packet's segment number is : 161
+Now received packet's segment number is : 162
+Now received packet's segment number is : 163
+Now received packet's segment number is : 164
+Now received packet's segment number is : 165
+Now received packet's segment number is : 166
+Now received packet's segment number is : 167
+Now received packet's segment number is : 168
+Now received packet's segment number is : 169
+Now received packet's segment number is : 170
+Now received packet's segment number is : 171
+Now received packet's segment number is : 172
+Now received packet's segment number is : 173
+Now received packet's segment number is : 174
+Now received packet's segment number is : 175
+Now received packet's segment number is : 176
+Now received packet's segment number is : 177
+Now received packet's segment number is : 178
+Now received packet's segment number is : 179
+Now received packet's segment number is : 180
+Now received packet's segment number is : 181
+Now received packet's segment number is : 182
+Now received packet's segment number is : 183
+Now received packet's segment number is : 184
+Now received packet's segment number is : 185
+Now received packet's segment number is : 186
+Now received packet's segment number is : 187
+Now received packet's segment number is : 188
+Now received packet's segment number is : 189
+Now received packet's segment number is : 190
+Now received packet's segment number is : 191
+Now received packet's segment number is : 192
+Now received packet's segment number is : 193
+Now received packet's segment number is : 194
+Now received packet's segment number is : 195
+Now received packet's segment number is : 196
+Now received packet's segment number is : 197
+Now received packet's segment number is : 198
+Now received packet's segment number is : 199
+Now received packet's segment number is : 200
+Now received packet's segment number is : 201
+Now received packet's segment number is : 202
+Now received packet's segment number is : 203
+Now received packet's segment number is : 204
+Now received packet's segment number is : 205
+Now received packet's segment number is : 206
+Now received packet's segment number is : 207
+Now received packet's segment number is : 208
+Now received packet's segment number is : 209
+Now received packet's segment number is : 210
+Now received packet's segment number is : 211
+Now received packet's segment number is : 212
+Now received packet's segment number is : 213
+Now received packet's segment number is : 214
+Now received packet's segment number is : 215
+Now received packet's segment number is : 216
+Now received packet's segment number is : 217
+Now received packet's segment number is : 218
+Now received packet's segment number is : 219
+Now received packet's segment number is : 220
+Now received packet's segment number is : 221
+Now received packet's segment number is : 222
+Now received packet's segment number is : 223
+Now received packet's segment number is : 224
+Now received packet's segment number is : 225
+Now received packet's segment number is : 226
+Now received packet's segment number is : 227
+Now received packet's segment number is : 228
+Now received packet's segment number is : 229
+Now received packet's segment number is : 230
+Now received packet's segment number is : 231
+Now received packet's segment number is : 232
+Now received packet's segment number is : 233
+Now received packet's segment number is : 234
+Now received packet's segment number is : 235
+Now received packet's segment number is : 236
+Now received packet's segment number is : 237
+Now received packet's segment number is : 238
+Now received packet's segment number is : 239
+Now received packet's segment number is : 240
+Now received packet's segment number is : 241
+Now received packet's segment number is : 242
+Now received packet's segment number is : 243
+Now received packet's segment number is : 244
+Now received packet's segment number is : 245
+Now received packet's segment number is : 246
+Now received packet's segment number is : 247
+Now received packet's segment number is : 248
+Now received packet's segment number is : 249
+Now received packet's segment number is : 250
+Now received packet's segment number is : 251
+Now received packet's segment number is : 252
+Now received packet's segment number is : 253
+Now received packet's segment number is : 254
+Now received packet's segment number is : 255
+Now received packet's segment number is : 256
+Now received packet's segment number is : 257
+Now received packet's segment number is : 258
+Now received packet's segment number is : 259
+Now received packet's segment number is : 260
+Now received packet's segment number is : 261
+Now received packet's segment number is : 262
+Now received packet's segment number is : 263
+Now received packet's segment number is : 264
+Now received packet's segment number is : 265
+Now received packet's segment number is : 266
+Now received packet's segment number is : 267
+Now received packet's segment number is : 268
+Now received packet's segment number is : 269
+Now received packet's segment number is : 270
+Now received packet's segment number is : 271
+Now received packet's segment number is : 272
+Now received packet's segment number is : 273
+Now received packet's segment number is : 274
+Now received packet's segment number is : 275
+Now received packet's segment number is : 276
+Now received packet's segment number is : 277
+Now received packet's segment number is : 278
+Now received packet's segment number is : 279
+Now received packet's segment number is : 280
+Now received packet's segment number is : 281
+Now received packet's segment number is : 282
+Now received packet's segment number is : 283
+Now received packet's segment number is : 284
+Now received packet's segment number is : 285
+Now received packet's segment number is : 286
+Now received packet's segment number is : 287
+Now received packet's segment number is : 288
+Now received packet's segment number is : 289
+Now received packet's segment number is : 290
+Now received packet's segment number is : 291
+Now received packet's segment number is : 292
+Now received packet's segment number is : 293
+Now received packet's segment number is : 294
+Now received packet's segment number is : 295
+Now received packet's segment number is : 296
+Now received packet's segment number is : 297
+Now received packet's segment number is : 298
+Now received packet's segment number is : 299
+Now received packet's segment number is : 300
+Now received packet's segment number is : 301
+Now received packet's segment number is : 302
+Now received packet's segment number is : 303
+Now received packet's segment number is : 304
+Now received packet's segment number is : 305
+Now received packet's segment number is : 306
+Now received packet's segment number is : 307
+Now received packet's segment number is : 308
+Now received packet's segment number is : 309
+Now received packet's segment number is : 310
+Now received packet's segment number is : 311
+Now received packet's segment number is : 312
+Now received packet's segment number is : 313
+Now received packet's segment number is : 314
+Now received packet's segment number is : 315
+Now received packet's segment number is : 316
+Now received packet's segment number is : 317
+Now received packet's segment number is : 318
+Now received packet's segment number is : 319
+Now received packet's segment number is : 320
+Now received packet's segment number is : 321
+Now received packet's segment number is : 322
+Now received packet's segment number is : 323
+Now received packet's segment number is : 324
+Now received packet's segment number is : 325
+Now received packet's segment number is : 326
+Now received packet's segment number is : 327
+Now received packet's segment number is : 328
+Now received packet's segment number is : 329
+Now received packet's segment number is : 330
+Now received packet's segment number is : 331
+Now received packet's segment number is : 332
+Now received packet's segment number is : 333
+Now received packet's segment number is : 334
+Now received packet's segment number is : 335
+Now received packet's segment number is : 336
+Now received packet's segment number is : 337
+Now received packet's segment number is : 338
+Now received packet's segment number is : 339
+Now received packet's segment number is : 340
+Now received packet's segment number is : 341
+Now received packet's segment number is : 342
+Now received packet's segment number is : 343
+Now received packet's segment number is : 344
+Now received packet's segment number is : 345
+Now received packet's segment number is : 346
+Now received packet's segment number is : 347
+Now received packet's segment number is : 348
+Now received packet's segment number is : 349
+Now received packet's segment number is : 350
+Now received packet's segment number is : 351
+Now received packet's segment number is : 352
+Now received packet's segment number is : 353
+Now received packet's segment number is : 354
+Now received packet's segment number is : 355
+Now received packet's segment number is : 356
+Now received packet's segment number is : 357
+Now received packet's segment number is : 358
+Now received packet's segment number is : 359
+Now received packet's segment number is : 360
+Now received packet's segment number is : 361
+Now received packet's segment number is : 362
+Now received packet's segment number is : 363
+Now received packet's segment number is : 364
+Now received packet's segment number is : 365
+Now received packet's segment number is : 366
+Now received packet's segment number is : 367
+Now received packet's segment number is : 368
+Now received packet's segment number is : 369
+Now received packet's segment number is : 370
+Now received packet's segment number is : 371
+Now received packet's segment number is : 372
+Now received packet's segment number is : 373
+Now received packet's segment number is : 374
+Now received packet's segment number is : 375
+Now received packet's segment number is : 376
+Now received packet's segment number is : 377
+Now received packet's segment number is : 378
+Now received packet's segment number is : 379
+Now received packet's segment number is : 380
+Now received packet's segment number is : 381
+Now received packet's segment number is : 382
+Now received packet's segment number is : 383
+Now received packet's segment number is : 384
+Now received packet's segment number is : 385
+Now received packet's segment number is : 386
+Now received packet's segment number is : 387
+Now received packet's segment number is : 388
+Now received packet's segment number is : 389
+Now received packet's segment number is : 390
+Now received packet's segment number is : 391
+Now received packet's segment number is : 392
+Now received packet's segment number is : 393
+Now received packet's segment number is : 394
+Now received packet's segment number is : 395
+Now received packet's segment number is : 396
+Now received packet's segment number is : 397
+Now received packet's segment number is : 398
+Now received packet's segment number is : 399
+Now received packet's segment number is : 400
+Now received packet's segment number is : 401
+Now received packet's segment number is : 402
+Now received packet's segment number is : 403
+Now received packet's segment number is : 404
+Now received packet's segment number is : 405
+Now received packet's segment number is : 406
+Now received packet's segment number is : 407
+Now received packet's segment number is : 408
+Now received packet's segment number is : 409
+Now received packet's segment number is : 410
+Now received packet's segment number is : 411
+Now received packet's segment number is : 412
+Now received packet's segment number is : 413
+Now received packet's segment number is : 414
+Now received packet's segment number is : 415
+Now received packet's segment number is : 416
+Now received packet's segment number is : 417
+Now received packet's segment number is : 418
+Now received packet's segment number is : 419
+Now received packet's segment number is : 420
+Now received packet's segment number is : 421
+Now received packet's segment number is : 422
+Now received packet's segment number is : 423
+Now received packet's segment number is : 424
+Now received packet's segment number is : 425
+Now received packet's segment number is : 426
+Now received packet's segment number is : 427
+Now received packet's segment number is : 428
+Now received packet's segment number is : 429
+Now received packet's segment number is : 430
+Now received packet's segment number is : 431
+Now received packet's segment number is : 432
+Now received packet's segment number is : 433
+Now received packet's segment number is : 434
+Now received packet's segment number is : 435
+Now received packet's segment number is : 436
+Now received packet's segment number is : 437
+Now received packet's segment number is : 438
+Now received packet's segment number is : 439
+Now received packet's segment number is : 440
+Now received packet's segment number is : 441
+Now received packet's segment number is : 442
+Now received packet's segment number is : 443
+Now received packet's segment number is : 444
+Now received packet's segment number is : 445
+Now received packet's segment number is : 446
+Now received packet's segment number is : 447
+Now received packet's segment number is : 448
+Now received packet's segment number is : 449
+Now received packet's segment number is : 450
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+gremlin function works! It may cause different checkSum.
+checkSumByServer : 18123
+checkSumByClient : 18123
+checkSumByServer : 23468
+checkSumByClient : 23247
+Error ! Checksum not the same , SegmentNumber is :1
+checkSumByServer : 23835
+checkSumByClient : 23835
+checkSumByServer : 23481
+checkSumByClient : 23179
+Error ! Checksum not the same , SegmentNumber is :3
+checkSumByServer : 24064
+checkSumByClient : 23833
+Error ! Checksum not the same , SegmentNumber is :4
+checkSumByServer : 23566
+checkSumByClient : 22951
+Error ! Checksum not the same , SegmentNumber is :5
+checkSumByServer : 22713
+checkSumByClient : 22644
+Error ! Checksum not the same , SegmentNumber is :6
+checkSumByServer : 22858
+checkSumByClient : 22424
+Error ! Checksum not the same , SegmentNumber is :7
+checkSumByServer : 23281
+checkSumByClient : 23281
+checkSumByServer : 23537
+checkSumByClient : 23093
+Error ! Checksum not the same , SegmentNumber is :9
+checkSumByServer : 22613
+checkSumByClient : 22414
+Error ! Checksum not the same , SegmentNumber is :10
+checkSumByServer : 21725
+checkSumByClient : 21656
+Error ! Checksum not the same , SegmentNumber is :11
+checkSumByServer : 23027
+checkSumByClient : 23027
+checkSumByServer : 22255
+checkSumByClient : 22034
+Error ! Checksum not the same , SegmentNumber is :13
+checkSumByServer : 18385
+checkSumByClient : 18385
+checkSumByServer : 22288
+checkSumByClient : 22165
+Error ! Checksum not the same , SegmentNumber is :15
+checkSumByServer : 22872
+checkSumByClient : 22872
+checkSumByServer : 17462
+checkSumByClient : 17117
+Error ! Checksum not the same , SegmentNumber is :17
+checkSumByServer : 22454
+checkSumByClient : 22454
+checkSumByServer : 19929
+checkSumByClient : 19929
+checkSumByServer : 21336
+checkSumByClient : 21010
+Error ! Checksum not the same , SegmentNumber is :20
+checkSumByServer : 21660
+checkSumByClient : 21141
+Error ! Checksum not the same , SegmentNumber is :21
+checkSumByServer : 21595
+checkSumByClient : 21400
+Error ! Checksum not the same , SegmentNumber is :22
+checkSumByServer : 19874
+checkSumByClient : 19438
+Error ! Checksum not the same , SegmentNumber is :23
+checkSumByServer : 20982
+checkSumByClient : 20787
+Error ! Checksum not the same , SegmentNumber is :24
+checkSumByServer : 21512
+checkSumByClient : 21317
+Error ! Checksum not the same , SegmentNumber is :25
+checkSumByServer : 20854
+checkSumByClient : 20623
+Error ! Checksum not the same , SegmentNumber is :26
+checkSumByServer : 20924
+checkSumByClient : 20399
+Error ! Checksum not the same , SegmentNumber is :27
+checkSumByServer : 19206
+checkSumByClient : 18977
+Error ! Checksum not the same , SegmentNumber is :28
+checkSumByServer : 19957
+checkSumByClient : 19724
+Error ! Checksum not the same , SegmentNumber is :29
+checkSumByServer : 19636
+checkSumByClient : 19167
+Error ! Checksum not the same , SegmentNumber is :30
+checkSumByServer : 18160
+checkSumByClient : 17688
+Error ! Checksum not the same , SegmentNumber is :31
+checkSumByServer : 21355
+checkSumByClient : 20796
+Error ! Checksum not the same , SegmentNumber is :32
+checkSumByServer : 15653
+checkSumByClient : 15353
+Error ! Checksum not the same , SegmentNumber is :33
+checkSumByServer : 17428
+checkSumByClient : 17428
+checkSumByServer : 21949
+checkSumByClient : 21392
+Error ! Checksum not the same , SegmentNumber is :35
+checkSumByServer : 21606
+checkSumByClient : 21606
+checkSumByServer : 19006
+checkSumByClient : 18911
+Error ! Checksum not the same , SegmentNumber is :37
+checkSumByServer : 19871
+checkSumByClient : 19636
+Error ! Checksum not the same , SegmentNumber is :38
+checkSumByServer : 17100
+checkSumByClient : 16832
+Error ! Checksum not the same , SegmentNumber is :39
+checkSumByServer : 17321
+checkSumByClient : 16919
+Error ! Checksum not the same , SegmentNumber is :40
+checkSumByServer : 22236
+checkSumByClient : 22236
+checkSumByServer : 22164
+checkSumByClient : 21953
+Error ! Checksum not the same , SegmentNumber is :42
+checkSumByServer : 20422
+checkSumByClient : 20422
+checkSumByServer : 20323
+checkSumByClient : 20120
+Error ! Checksum not the same , SegmentNumber is :44
+checkSumByServer : 22216
+checkSumByClient : 22216
+checkSumByServer : 21227
+checkSumByClient : 20803
+Error ! Checksum not the same , SegmentNumber is :46
+checkSumByServer : 23965
+checkSumByClient : 23669
+Error ! Checksum not the same , SegmentNumber is :47
+checkSumByServer : 22819
+checkSumByClient : 22598
+Error ! Checksum not the same , SegmentNumber is :48
+checkSumByServer : 21742
+checkSumByClient : 21437
+Error ! Checksum not the same , SegmentNumber is :49
+checkSumByServer : 21256
+checkSumByClient : 21256
+checkSumByServer : 20767
+checkSumByClient : 20323
+Error ! Checksum not the same , SegmentNumber is :51
+checkSumByServer : 21567
+checkSumByClient : 21567
+checkSumByServer : 21209
+checkSumByClient : 21209
+checkSumByServer : 19333
+checkSumByClient : 18903
+Error ! Checksum not the same , SegmentNumber is :54
+checkSumByServer : 19993
+checkSumByClient : 19909
+Error ! Checksum not the same , SegmentNumber is :55
+checkSumByServer : 24038
+checkSumByClient : 23807
+Error ! Checksum not the same , SegmentNumber is :56
+checkSumByServer : 23421
+checkSumByClient : 23220
+Error ! Checksum not the same , SegmentNumber is :57
+checkSumByServer : 21979
+checkSumByClient : 21426
+Error ! Checksum not the same , SegmentNumber is :58
+checkSumByServer : 18940
+checkSumByClient : 18817
+Error ! Checksum not the same , SegmentNumber is :59
+checkSumByServer : 19392
+checkSumByClient : 19189
+Error ! Checksum not the same , SegmentNumber is :60
+checkSumByServer : 19377
+checkSumByClient : 19152
+Error ! Checksum not the same , SegmentNumber is :61
+checkSumByServer : 20071
+checkSumByClient : 19876
+Error ! Checksum not the same , SegmentNumber is :62
+checkSumByServer : 22249
+checkSumByClient : 22249
+checkSumByServer : 22836
+checkSumByClient : 22601
+Error ! Checksum not the same , SegmentNumber is :64
+checkSumByServer : 22544
+checkSumByClient : 22132
+Error ! Checksum not the same , SegmentNumber is :65
+checkSumByServer : 19941
+checkSumByClient : 19308
+Error ! Checksum not the same , SegmentNumber is :66
+checkSumByServer : 22373
+checkSumByClient : 22071
+Error ! Checksum not the same , SegmentNumber is :67
+checkSumByServer : 19603
+checkSumByClient : 19201
+Error ! Checksum not the same , SegmentNumber is :68
+checkSumByServer : 20748
+checkSumByClient : 20396
+Error ! Checksum not the same , SegmentNumber is :69
+checkSumByServer : 20198
+checkSumByClient : 19713
+Error ! Checksum not the same , SegmentNumber is :70
+checkSumByServer : 20443
+checkSumByClient : 20089
+Error ! Checksum not the same , SegmentNumber is :71
+checkSumByServer : 24011
+checkSumByClient : 24011
+checkSumByServer : 20022
+checkSumByClient : 20022
+checkSumByServer : 19577
+checkSumByClient : 19360
+Error ! Checksum not the same , SegmentNumber is :74
+checkSumByServer : 22857
+checkSumByClient : 22412
+Error ! Checksum not the same , SegmentNumber is :75
+checkSumByServer : 22949
+checkSumByClient : 22515
+Error ! Checksum not the same , SegmentNumber is :76
+checkSumByServer : 20330
+checkSumByClient : 20217
+Error ! Checksum not the same , SegmentNumber is :77
+checkSumByServer : 20139
+checkSumByClient : 19936
+Error ! Checksum not the same , SegmentNumber is :78
+checkSumByServer : 20112
+checkSumByClient : 20112
+checkSumByServer : 19894
+checkSumByClient : 19638
+Error ! Checksum not the same , SegmentNumber is :80
+checkSumByServer : 18677
+checkSumByClient : 18677
+checkSumByServer : 19111
+checkSumByClient : 19111
+checkSumByServer : 19811
+checkSumByClient : 19600
+Error ! Checksum not the same , SegmentNumber is :83
+checkSumByServer : 19080
+checkSumByClient : 19011
+Error ! Checksum not the same , SegmentNumber is :84
+checkSumByServer : 18490
+checkSumByClient : 18490
+checkSumByServer : 21583
+checkSumByClient : 21154
+Error ! Checksum not the same , SegmentNumber is :86
+checkSumByServer : 20780
+checkSumByClient : 20585
+Error ! Checksum not the same , SegmentNumber is :87
+checkSumByServer : 19152
+checkSumByClient : 18991
+Error ! Checksum not the same , SegmentNumber is :88
+checkSumByServer : 21391
+checkSumByClient : 21073
+Error ! Checksum not the same , SegmentNumber is :89
+checkSumByServer : 20263
+checkSumByClient : 20244
+Error ! Checksum not the same , SegmentNumber is :90
+checkSumByServer : 20378
+checkSumByClient : 20135
+Error ! Checksum not the same , SegmentNumber is :91
+checkSumByServer : 23851
+checkSumByClient : 23555
+Error ! Checksum not the same , SegmentNumber is :92
+checkSumByServer : 19745
+checkSumByClient : 19529
+Error ! Checksum not the same , SegmentNumber is :93
+checkSumByServer : 21222
+checkSumByClient : 20790
+Error ! Checksum not the same , SegmentNumber is :94
+checkSumByServer : 23802
+checkSumByClient : 23802
+checkSumByServer : 22799
+checkSumByClient : 22799
+checkSumByServer : 20292
+checkSumByClient : 20071
+Error ! Checksum not the same , SegmentNumber is :97
+checkSumByServer : 20316
+checkSumByClient : 19896
+Error ! Checksum not the same , SegmentNumber is :98
+checkSumByServer : 23638
+checkSumByClient : 23638
+checkSumByServer : 20725
+checkSumByClient : 20725
+checkSumByServer : 20277
+checkSumByClient : 20277
+checkSumByServer : 21899
+checkSumByClient : 21899
+checkSumByServer : 22006
+checkSumByClient : 21429
+Error ! Checksum not the same , SegmentNumber is :103
+checkSumByServer : 20751
+checkSumByClient : 20732
+Error ! Checksum not the same , SegmentNumber is :104
+checkSumByServer : 21008
+checkSumByClient : 21008
+checkSumByServer : 21521
+checkSumByClient : 21318
+Error ! Checksum not the same , SegmentNumber is :106
+checkSumByServer : 20274
+checkSumByClient : 20052
+Error ! Checksum not the same , SegmentNumber is :107
+checkSumByServer : 20441
+checkSumByClient : 20441
+checkSumByServer : 22054
+checkSumByClient : 22054
+checkSumByServer : 20949
+checkSumByClient : 20884
+Error ! Checksum not the same , SegmentNumber is :110
+checkSumByServer : 22850
+checkSumByClient : 22454
+Error ! Checksum not the same , SegmentNumber is :111
+checkSumByServer : 20023
+checkSumByClient : 19820
+Error ! Checksum not the same , SegmentNumber is :112
+checkSumByServer : 22050
+checkSumByClient : 21864
+Error ! Checksum not the same , SegmentNumber is :113
+checkSumByServer : 19505
+checkSumByClient : 19486
+Error ! Checksum not the same , SegmentNumber is :114
+checkSumByServer : 20668
+checkSumByClient : 20668
+checkSumByServer : 24354
+checkSumByClient : 24354
+checkSumByServer : 19886
+checkSumByClient : 19687
+Error ! Checksum not the same , SegmentNumber is :117
+checkSumByServer : 20529
+checkSumByClient : 20318
+Error ! Checksum not the same , SegmentNumber is :118
+checkSumByServer : 23657
+checkSumByClient : 23424
+Error ! Checksum not the same , SegmentNumber is :119
+checkSumByServer : 23700
+checkSumByClient : 23286
+Error ! Checksum not the same , SegmentNumber is :120
+checkSumByServer : 19802
+checkSumByClient : 19783
+Error ! Checksum not the same , SegmentNumber is :121
+checkSumByServer : 19726
+checkSumByClient : 19525
+Error ! Checksum not the same , SegmentNumber is :122
+checkSumByServer : 20735
+checkSumByClient : 20521
+Error ! Checksum not the same , SegmentNumber is :123
+checkSumByServer : 21363
+checkSumByClient : 20926
+Error ! Checksum not the same , SegmentNumber is :124
+checkSumByServer : 22619
+checkSumByClient : 22229
+Error ! Checksum not the same , SegmentNumber is :125
+checkSumByServer : 19874
+checkSumByClient : 19809
+Error ! Checksum not the same , SegmentNumber is :126
+checkSumByServer : 20256
+checkSumByClient : 20039
+Error ! Checksum not the same , SegmentNumber is :127
+checkSumByServer : 23152
+checkSumByClient : 22870
+Error ! Checksum not the same , SegmentNumber is :128
+checkSumByServer : 19971
+checkSumByClient : 19750
+Error ! Checksum not the same , SegmentNumber is :129
+checkSumByServer : 20897
+checkSumByClient : 20658
+Error ! Checksum not the same , SegmentNumber is :130
+checkSumByServer : 19548
+checkSumByClient : 18895
+Error ! Checksum not the same , SegmentNumber is :131
+checkSumByServer : 20875
+checkSumByClient : 20461
+Error ! Checksum not the same , SegmentNumber is :132
+checkSumByServer : 23319
+checkSumByClient : 23319
+checkSumByServer : 19738
+checkSumByClient : 19738
+checkSumByServer : 18694
+checkSumByClient : 18694
+checkSumByServer : 20465
+checkSumByClient : 20197
+Error ! Checksum not the same , SegmentNumber is :136
+checkSumByServer : 23073
+checkSumByClient : 22671
+Error ! Checksum not the same , SegmentNumber is :137
+checkSumByServer : 23487
+checkSumByClient : 23392
+Error ! Checksum not the same , SegmentNumber is :138
+checkSumByServer : 19882
+checkSumByClient : 19882
+checkSumByServer : 20339
+checkSumByClient : 20138
+Error ! Checksum not the same , SegmentNumber is :140
+checkSumByServer : 21144
+checkSumByClient : 21144
+checkSumByServer : 22734
+checkSumByClient : 22312
+Error ! Checksum not the same , SegmentNumber is :142
+checkSumByServer : 22564
+checkSumByClient : 22378
+Error ! Checksum not the same , SegmentNumber is :143
+checkSumByServer : 22557
+checkSumByClient : 22340
+Error ! Checksum not the same , SegmentNumber is :144
+checkSumByServer : 22422
+checkSumByClient : 22068
+Error ! Checksum not the same , SegmentNumber is :145
+checkSumByServer : 18525
+checkSumByClient : 18054
+Error ! Checksum not the same , SegmentNumber is :146
+checkSumByServer : 21308
+checkSumByClient : 21308
+checkSumByServer : 19415
+checkSumByClient : 19056
+Error ! Checksum not the same , SegmentNumber is :148
+checkSumByServer : 21797
+checkSumByClient : 21797
+checkSumByServer : 21275
+checkSumByClient : 21061
+Error ! Checksum not the same , SegmentNumber is :150
+checkSumByServer : 22400
+checkSumByClient : 22205
+Error ! Checksum not the same , SegmentNumber is :151
+checkSumByServer : 21193
+checkSumByClient : 21193
+checkSumByServer : 20261
+checkSumByClient : 19802
+Error ! Checksum not the same , SegmentNumber is :153
+checkSumByServer : 22965
+checkSumByClient : 22460
+Error ! Checksum not the same , SegmentNumber is :154
+checkSumByServer : 19771
+checkSumByClient : 19128
+Error ! Checksum not the same , SegmentNumber is :155
+checkSumByServer : 20308
+checkSumByClient : 20308
+checkSumByServer : 23347
+checkSumByClient : 23347
+checkSumByServer : 19648
+checkSumByClient : 19415
+Error ! Checksum not the same , SegmentNumber is :158
+checkSumByServer : 21229
+checkSumByClient : 20984
+Error ! Checksum not the same , SegmentNumber is :159
+checkSumByServer : 23072
+checkSumByClient : 22914
+Error ! Checksum not the same , SegmentNumber is :160
+checkSumByServer : 20817
+checkSumByClient : 20817
+checkSumByServer : 20457
+checkSumByClient : 19924
+Error ! Checksum not the same , SegmentNumber is :162
+checkSumByServer : 22437
+checkSumByClient : 22437
+checkSumByServer : 20480
+checkSumByClient : 20480
+checkSumByServer : 19951
+checkSumByClient : 19848
+Error ! Checksum not the same , SegmentNumber is :165
+checkSumByServer : 23883
+checkSumByClient : 23662
+Error ! Checksum not the same , SegmentNumber is :166
+checkSumByServer : 19788
+checkSumByClient : 19563
+Error ! Checksum not the same , SegmentNumber is :167
+checkSumByServer : 19695
+checkSumByClient : 19536
+Error ! Checksum not the same , SegmentNumber is :168
+checkSumByServer : 23758
+checkSumByClient : 23523
+Error ! Checksum not the same , SegmentNumber is :169
+checkSumByServer : 22656
+checkSumByClient : 22222
+Error ! Checksum not the same , SegmentNumber is :170
+checkSumByServer : 20799
+checkSumByClient : 20780
+Error ! Checksum not the same , SegmentNumber is :171
+checkSumByServer : 20096
+checkSumByClient : 19509
+Error ! Checksum not the same , SegmentNumber is :172
+checkSumByServer : 21499
+checkSumByClient : 21073
+Error ! Checksum not the same , SegmentNumber is :173
+checkSumByServer : 20346
+checkSumByClient : 20139
+Error ! Checksum not the same , SegmentNumber is :174
+checkSumByServer : 20502
+checkSumByClient : 20483
+Error ! Checksum not the same , SegmentNumber is :175
+checkSumByServer : 20707
+checkSumByClient : 20496
+Error ! Checksum not the same , SegmentNumber is :176
+checkSumByServer : 21725
+checkSumByClient : 21530
+Error ! Checksum not the same , SegmentNumber is :177
+checkSumByServer : 19276
+checkSumByClient : 19276
+checkSumByServer : 20539
+checkSumByClient : 20520
+Error ! Checksum not the same , SegmentNumber is :179
+checkSumByServer : 21417
+checkSumByClient : 21417
+checkSumByServer : 22776
+checkSumByClient : 22575
+Error ! Checksum not the same , SegmentNumber is :181
+checkSumByServer : 19503
+checkSumByClient : 19503
+checkSumByServer : 17688
+checkSumByClient : 17688
+checkSumByServer : 19843
+checkSumByClient : 19843
+checkSumByServer : 23266
+checkSumByClient : 23035
+Error ! Checksum not the same , SegmentNumber is :185
+checkSumByServer : 19624
+checkSumByClient : 19624
+checkSumByServer : 18756
+checkSumByClient : 18756
+checkSumByServer : 20759
+checkSumByClient : 20556
+Error ! Checksum not the same , SegmentNumber is :188
+checkSumByServer : 20467
+checkSumByClient : 20215
+Error ! Checksum not the same , SegmentNumber is :189
+checkSumByServer : 19112
+checkSumByClient : 18623
+Error ! Checksum not the same , SegmentNumber is :190
+checkSumByServer : 20219
+checkSumByClient : 19785
+Error ! Checksum not the same , SegmentNumber is :191
+checkSumByServer : 20095
+checkSumByClient : 19862
+Error ! Checksum not the same , SegmentNumber is :192
+checkSumByServer : 20356
+checkSumByClient : 20153
+Error ! Checksum not the same , SegmentNumber is :193
+checkSumByServer : 20670
+checkSumByClient : 20670
+checkSumByServer : 20781
+checkSumByClient : 20246
+Error ! Checksum not the same , SegmentNumber is :195
+checkSumByServer : 23133
+checkSumByClient : 22616
+Error ! Checksum not the same , SegmentNumber is :196
+checkSumByServer : 19586
+checkSumByClient : 19129
+Error ! Checksum not the same , SegmentNumber is :197
+checkSumByServer : 20767
+checkSumByClient : 20767
+checkSumByServer : 22205
+checkSumByClient : 22140
+Error ! Checksum not the same , SegmentNumber is :199
+checkSumByServer : 20119
+checkSumByClient : 19670
+Error ! Checksum not the same , SegmentNumber is :200
+checkSumByServer : 20982
+checkSumByClient : 20982
+checkSumByServer : 20644
+checkSumByClient : 20427
+Error ! Checksum not the same , SegmentNumber is :202
+checkSumByServer : 20516
+checkSumByClient : 20302
+Error ! Checksum not the same , SegmentNumber is :203
+checkSumByServer : 22558
+checkSumByClient : 22347
+Error ! Checksum not the same , SegmentNumber is :204
+checkSumByServer : 19985
+checkSumByClient : 19782
+Error ! Checksum not the same , SegmentNumber is :205
+checkSumByServer : 20789
+checkSumByClient : 20351
+Error ! Checksum not the same , SegmentNumber is :206
+checkSumByServer : 22865
+checkSumByClient : 22465
+Error ! Checksum not the same , SegmentNumber is :207
+checkSumByServer : 20796
+checkSumByClient : 20727
+Error ! Checksum not the same , SegmentNumber is :208
+checkSumByServer : 20906
+checkSumByClient : 20906
+checkSumByServer : 20654
+checkSumByClient : 20455
+Error ! Checksum not the same , SegmentNumber is :210
+checkSumByServer : 21941
+checkSumByClient : 21876
+Error ! Checksum not the same , SegmentNumber is :211
+checkSumByServer : 22544
+checkSumByClient : 22278
+Error ! Checksum not the same , SegmentNumber is :212
+checkSumByServer : 19870
+checkSumByClient : 19633
+Error ! Checksum not the same , SegmentNumber is :213
+checkSumByServer : 20622
+checkSumByClient : 20103
+Error ! Checksum not the same , SegmentNumber is :214
+checkSumByServer : 22581
+checkSumByClient : 22358
+Error ! Checksum not the same , SegmentNumber is :215
+checkSumByServer : 23649
+checkSumByClient : 23201
+Error ! Checksum not the same , SegmentNumber is :216
+checkSumByServer : 23485
+checkSumByClient : 23485
+checkSumByServer : 23990
+checkSumByClient : 23795
+Error ! Checksum not the same , SegmentNumber is :218
+checkSumByServer : 18834
+checkSumByClient : 18415
+Error ! Checksum not the same , SegmentNumber is :219
+checkSumByServer : 20955
+checkSumByClient : 20955
+checkSumByServer : 20462
+checkSumByClient : 20229
+Error ! Checksum not the same , SegmentNumber is :221
+checkSumByServer : 19542
+checkSumByClient : 19542
+checkSumByServer : 19776
+checkSumByClient : 19348
+Error ! Checksum not the same , SegmentNumber is :223
+checkSumByServer : 23365
+checkSumByClient : 22951
+Error ! Checksum not the same , SegmentNumber is :224
+checkSumByServer : 22545
+checkSumByClient : 22545
+checkSumByServer : 23758
+checkSumByClient : 23235
+Error ! Checksum not the same , SegmentNumber is :226
+checkSumByServer : 19162
+checkSumByClient : 19005
+Error ! Checksum not the same , SegmentNumber is :227
+checkSumByServer : 20810
+checkSumByClient : 20810
+checkSumByServer : 23249
+checkSumByClient : 22815
+Error ! Checksum not the same , SegmentNumber is :229
+checkSumByServer : 21305
+checkSumByClient : 20596
+Error ! Checksum not the same , SegmentNumber is :230
+checkSumByServer : 23883
+checkSumByClient : 23883
+checkSumByServer : 20489
+checkSumByClient : 20424
+Error ! Checksum not the same , SegmentNumber is :232
+checkSumByServer : 21221
+checkSumByClient : 21130
+Error ! Checksum not the same , SegmentNumber is :233
+checkSumByServer : 20823
+checkSumByClient : 20823
+checkSumByServer : 23501
+checkSumByClient : 23306
+Error ! Checksum not the same , SegmentNumber is :235
+checkSumByServer : 24169
+checkSumByClient : 23968
+Error ! Checksum not the same , SegmentNumber is :236
+checkSumByServer : 22190
+checkSumByClient : 21954
+Error ! Checksum not the same , SegmentNumber is :237
+checkSumByServer : 23950
+checkSumByClient : 23885
+Error ! Checksum not the same , SegmentNumber is :238
+checkSumByServer : 23697
+checkSumByClient : 23494
+Error ! Checksum not the same , SegmentNumber is :239
+checkSumByServer : 20393
+checkSumByClient : 20328
+Error ! Checksum not the same , SegmentNumber is :240
+checkSumByServer : 20942
+checkSumByClient : 20508
+Error ! Checksum not the same , SegmentNumber is :241
+checkSumByServer : 22451
+checkSumByClient : 22244
+Error ! Checksum not the same , SegmentNumber is :242
+checkSumByServer : 20329
+checkSumByClient : 20118
+Error ! Checksum not the same , SegmentNumber is :243
+checkSumByServer : 20557
+checkSumByClient : 20336
+Error ! Checksum not the same , SegmentNumber is :244
+checkSumByServer : 20564
+checkSumByClient : 20264
+Error ! Checksum not the same , SegmentNumber is :245
+checkSumByServer : 19795
+checkSumByClient : 19795
+checkSumByServer : 21698
+checkSumByClient : 21698
+checkSumByServer : 19788
+checkSumByClient : 19719
+Error ! Checksum not the same , SegmentNumber is :248
+checkSumByServer : 22395
+checkSumByClient : 22178
+Error ! Checksum not the same , SegmentNumber is :249
+checkSumByServer : 20354
+checkSumByClient : 20354
+checkSumByServer : 20037
+checkSumByClient : 19836
+Error ! Checksum not the same , SegmentNumber is :251
+checkSumByServer : 20432
+checkSumByClient : 20182
+Error ! Checksum not the same , SegmentNumber is :252
+checkSumByServer : 19832
+checkSumByClient : 19378
+Error ! Checksum not the same , SegmentNumber is :253
+checkSumByServer : 20521
+checkSumByClient : 20521
+checkSumByServer : 20098
+checkSumByClient : 20079
+Error ! Checksum not the same , SegmentNumber is :255
+checkSumByServer : 20442
+checkSumByClient : 20377
+Error ! Checksum not the same , SegmentNumber is :256
+checkSumByServer : 20365
+checkSumByClient : 20148
+Error ! Checksum not the same , SegmentNumber is :257
+checkSumByServer : 20658
+checkSumByClient : 20155
+Error ! Checksum not the same , SegmentNumber is :258
+checkSumByServer : 20265
+checkSumByClient : 20028
+Error ! Checksum not the same , SegmentNumber is :259
+checkSumByServer : 22127
+checkSumByClient : 22002
+Error ! Checksum not the same , SegmentNumber is :260
+checkSumByServer : 20627
+checkSumByClient : 20396
+Error ! Checksum not the same , SegmentNumber is :261
+checkSumByServer : 20508
+checkSumByClient : 20286
+Error ! Checksum not the same , SegmentNumber is :262
+checkSumByServer : 20508
+checkSumByClient : 20275
+Error ! Checksum not the same , SegmentNumber is :263
+checkSumByServer : 21149
+checkSumByClient : 21084
+Error ! Checksum not the same , SegmentNumber is :264
+checkSumByServer : 21881
+checkSumByClient : 21792
+Error ! Checksum not the same , SegmentNumber is :265
+checkSumByServer : 19702
+checkSumByClient : 19702
+checkSumByServer : 20766
+checkSumByClient : 20531
+Error ! Checksum not the same , SegmentNumber is :267
+checkSumByServer : 20039
+checkSumByClient : 20039
+checkSumByServer : 20656
+checkSumByClient : 20656
+checkSumByServer : 21758
+checkSumByClient : 21437
+Error ! Checksum not the same , SegmentNumber is :270
+checkSumByServer : 20829
+checkSumByClient : 20829
+checkSumByServer : 21721
+checkSumByClient : 21518
+Error ! Checksum not the same , SegmentNumber is :272
+checkSumByServer : 18772
+checkSumByClient : 18772
+checkSumByServer : 19066
+checkSumByClient : 19066
+checkSumByServer : 20015
+checkSumByClient : 20015
+checkSumByServer : 20811
+checkSumByClient : 20792
+Error ! Checksum not the same , SegmentNumber is :276
+checkSumByServer : 22195
+checkSumByClient : 21712
+Error ! Checksum not the same , SegmentNumber is :277
+checkSumByServer : 21251
+checkSumByClient : 20674
+Error ! Checksum not the same , SegmentNumber is :278
+checkSumByServer : 20249
+checkSumByClient : 20249
+checkSumByServer : 19791
+checkSumByClient : 19791
+checkSumByServer : 22549
+checkSumByClient : 22281
+Error ! Checksum not the same , SegmentNumber is :281
+checkSumByServer : 20578
+checkSumByClient : 20578
+checkSumByServer : 20702
+checkSumByClient : 20702
+checkSumByServer : 22691
+checkSumByClient : 22452
+Error ! Checksum not the same , SegmentNumber is :284
+checkSumByServer : 23755
+checkSumByClient : 23487
+Error ! Checksum not the same , SegmentNumber is :285
+checkSumByServer : 19882
+checkSumByClient : 19882
+checkSumByServer : 21163
+checkSumByClient : 21163
+checkSumByServer : 19957
+checkSumByClient : 19296
+Error ! Checksum not the same , SegmentNumber is :288
+checkSumByServer : 20239
+checkSumByClient : 20044
+Error ! Checksum not the same , SegmentNumber is :289
+checkSumByServer : 21957
+checkSumByClient : 21740
+Error ! Checksum not the same , SegmentNumber is :290
+checkSumByServer : 20111
+checkSumByClient : 20111
+checkSumByServer : 20520
+checkSumByClient : 20139
+Error ! Checksum not the same , SegmentNumber is :292
+checkSumByServer : 18444
+checkSumByClient : 18360
+Error ! Checksum not the same , SegmentNumber is :293
+checkSumByServer : 18868
+checkSumByClient : 18637
+Error ! Checksum not the same , SegmentNumber is :294
+checkSumByServer : 21536
+checkSumByClient : 21307
+Error ! Checksum not the same , SegmentNumber is :295
+checkSumByServer : 19393
+checkSumByClient : 19190
+Error ! Checksum not the same , SegmentNumber is :296
+checkSumByServer : 20887
+checkSumByClient : 20684
+Error ! Checksum not the same , SegmentNumber is :297
+checkSumByServer : 23632
+checkSumByClient : 23437
+Error ! Checksum not the same , SegmentNumber is :298
+checkSumByServer : 19771
+checkSumByClient : 19086
+Error ! Checksum not the same , SegmentNumber is :299
+checkSumByServer : 20102
+checkSumByClient : 20102
+checkSumByServer : 20087
+checkSumByClient : 19876
+Error ! Checksum not the same , SegmentNumber is :301
+checkSumByServer : 20300
+checkSumByClient : 20300
+checkSumByServer : 23509
+checkSumByClient : 23195
+Error ! Checksum not the same , SegmentNumber is :303
+checkSumByServer : 23223
+checkSumByClient : 22702
+Error ! Checksum not the same , SegmentNumber is :304
+checkSumByServer : 20911
+checkSumByClient : 20710
+Error ! Checksum not the same , SegmentNumber is :305
+checkSumByServer : 20651
+checkSumByClient : 20651
+checkSumByServer : 21517
+checkSumByClient : 21517
+checkSumByServer : 23965
+checkSumByClient : 23697
+Error ! Checksum not the same , SegmentNumber is :308
+checkSumByServer : 20576
+checkSumByClient : 20134
+Error ! Checksum not the same , SegmentNumber is :309
+checkSumByServer : 20787
+checkSumByClient : 20554
+Error ! Checksum not the same , SegmentNumber is :310
+checkSumByServer : 23252
+checkSumByClient : 23035
+Error ! Checksum not the same , SegmentNumber is :311
+checkSumByServer : 23745
+checkSumByClient : 23745
+checkSumByServer : 22260
+checkSumByClient : 22039
+Error ! Checksum not the same , SegmentNumber is :313
+checkSumByServer : 20505
+checkSumByClient : 20272
+Error ! Checksum not the same , SegmentNumber is :314
+checkSumByServer : 20416
+checkSumByClient : 20416
+checkSumByServer : 22806
+checkSumByClient : 22806
+checkSumByServer : 20399
+checkSumByClient : 20156
+Error ! Checksum not the same , SegmentNumber is :317
+checkSumByServer : 20608
+checkSumByClient : 20371
+Error ! Checksum not the same , SegmentNumber is :318
+checkSumByServer : 22082
+checkSumByClient : 21806
+Error ! Checksum not the same , SegmentNumber is :319
+checkSumByServer : 20961
+checkSumByClient : 20336
+Error ! Checksum not the same , SegmentNumber is :320
+checkSumByServer : 20326
+checkSumByClient : 20326
+checkSumByServer : 20110
+checkSumByClient : 19911
+Error ! Checksum not the same , SegmentNumber is :322
+checkSumByServer : 23140
+checkSumByClient : 23075
+Error ! Checksum not the same , SegmentNumber is :323
+checkSumByServer : 23676
+checkSumByClient : 22971
+Error ! Checksum not the same , SegmentNumber is :324
+checkSumByServer : 20340
+checkSumByClient : 20107
+Error ! Checksum not the same , SegmentNumber is :325
+checkSumByServer : 22024
+checkSumByClient : 21604
+Error ! Checksum not the same , SegmentNumber is :326
+checkSumByServer : 21840
+checkSumByClient : 21840
+checkSumByServer : 20096
+checkSumByClient : 20027
+Error ! Checksum not the same , SegmentNumber is :328
+checkSumByServer : 20247
+checkSumByClient : 19957
+Error ! Checksum not the same , SegmentNumber is :329
+checkSumByServer : 23539
+checkSumByClient : 23310
+Error ! Checksum not the same , SegmentNumber is :330
+checkSumByServer : 23421
+checkSumByClient : 23060
+Error ! Checksum not the same , SegmentNumber is :331
+checkSumByServer : 19731
+checkSumByClient : 19124
+Error ! Checksum not the same , SegmentNumber is :332
+checkSumByServer : 20181
+checkSumByClient : 19948
+Error ! Checksum not the same , SegmentNumber is :333
+checkSumByServer : 22818
+checkSumByClient : 22615
+Error ! Checksum not the same , SegmentNumber is :334
+checkSumByServer : 23570
+checkSumByClient : 23349
+Error ! Checksum not the same , SegmentNumber is :335
+checkSumByServer : 18763
+checkSumByClient : 18338
+Error ! Checksum not the same , SegmentNumber is :336
+checkSumByServer : 21749
+checkSumByClient : 21749
+checkSumByServer : 18983
+checkSumByClient : 18761
+Error ! Checksum not the same , SegmentNumber is :338
+checkSumByServer : 20129
+checkSumByClient : 20129
+checkSumByServer : 21132
+checkSumByClient : 21132
+checkSumByServer : 19978
+checkSumByClient : 19858
+Error ! Checksum not the same , SegmentNumber is :341
+checkSumByServer : 19858
+checkSumByClient : 19287
+Error ! Checksum not the same , SegmentNumber is :342
+checkSumByServer : 20779
+checkSumByClient : 20296
+Error ! Checksum not the same , SegmentNumber is :343
+checkSumByServer : 19884
+checkSumByClient : 19689
+Error ! Checksum not the same , SegmentNumber is :344
+checkSumByServer : 19962
+checkSumByClient : 19321
+Error ! Checksum not the same , SegmentNumber is :345
+checkSumByServer : 22142
+checkSumByClient : 22142
+checkSumByServer : 19431
+checkSumByClient : 19431
+checkSumByServer : 21379
+checkSumByClient : 21379
+checkSumByServer : 18995
+checkSumByClient : 18709
+Error ! Checksum not the same , SegmentNumber is :349
+checkSumByServer : 19738
+checkSumByClient : 19508
+Error ! Checksum not the same , SegmentNumber is :350
+checkSumByServer : 23387
+checkSumByClient : 22688
+Error ! Checksum not the same , SegmentNumber is :351
+checkSumByServer : 19595
+checkSumByClient : 19257
+Error ! Checksum not the same , SegmentNumber is :352
+checkSumByServer : 20452
+checkSumByClient : 20258
+Error ! Checksum not the same , SegmentNumber is :353
+checkSumByServer : 23908
+checkSumByClient : 23908
+checkSumByServer : 23914
+checkSumByClient : 23707
+Error ! Checksum not the same , SegmentNumber is :355
+checkSumByServer : 20466
+checkSumByClient : 20466
+checkSumByServer : 20468
+checkSumByClient : 20072
+Error ! Checksum not the same , SegmentNumber is :357
+checkSumByServer : 24083
+checkSumByClient : 24083
+checkSumByServer : 22969
+checkSumByClient : 22683
+Error ! Checksum not the same , SegmentNumber is :359
+checkSumByServer : 19780
+checkSumByClient : 19289
+Error ! Checksum not the same , SegmentNumber is :360
+checkSumByServer : 21050
+checkSumByClient : 20616
+Error ! Checksum not the same , SegmentNumber is :361
+checkSumByServer : 19725
+checkSumByClient : 19292
+Error ! Checksum not the same , SegmentNumber is :362
+checkSumByServer : 20930
+checkSumByClient : 20713
+Error ! Checksum not the same , SegmentNumber is :363
+checkSumByServer : 20116
+checkSumByClient : 20116
+checkSumByServer : 20652
+checkSumByClient : 20312
+Error ! Checksum not the same , SegmentNumber is :365
+checkSumByServer : 22268
+checkSumByClient : 22268
+checkSumByServer : 22486
+checkSumByClient : 22486
+checkSumByServer : 21593
+checkSumByClient : 21509
+Error ! Checksum not the same , SegmentNumber is :368
+checkSumByServer : 18509
+checkSumByClient : 18278
+Error ! Checksum not the same , SegmentNumber is :369
+checkSumByServer : 18959
+checkSumByClient : 18959
+checkSumByServer : 15327
+checkSumByClient : 15327
+checkSumByServer : 17079
+checkSumByClient : 17079
+checkSumByServer : 21843
+checkSumByClient : 21395
+Error ! Checksum not the same , SegmentNumber is :373
+checkSumByServer : 20593
+checkSumByClient : 20593
+checkSumByServer : 17226
+checkSumByClient : 17009
+Error ! Checksum not the same , SegmentNumber is :375
+checkSumByServer : 21551
+checkSumByClient : 21123
+Error ! Checksum not the same , SegmentNumber is :376
+checkSumByServer : 21662
+checkSumByClient : 21662
+checkSumByServer : 20338
+checkSumByClient : 20319
+Error ! Checksum not the same , SegmentNumber is :378
+checkSumByServer : 20990
+checkSumByClient : 20760
+Error ! Checksum not the same , SegmentNumber is :379
+checkSumByServer : 23244
+checkSumByClient : 22577
+Error ! Checksum not the same , SegmentNumber is :380
+checkSumByServer : 19506
+checkSumByClient : 18923
+Error ! Checksum not the same , SegmentNumber is :381
+checkSumByServer : 20348
+checkSumByClient : 20283
+Error ! Checksum not the same , SegmentNumber is :382
+checkSumByServer : 19966
+checkSumByClient : 19771
+Error ! Checksum not the same , SegmentNumber is :383
+checkSumByServer : 20859
+checkSumByClient : 20652
+Error ! Checksum not the same , SegmentNumber is :384
+checkSumByServer : 21658
+checkSumByClient : 21324
+Error ! Checksum not the same , SegmentNumber is :385
+checkSumByServer : 22514
+checkSumByClient : 22277
+Error ! Checksum not the same , SegmentNumber is :386
+checkSumByServer : 23782
+checkSumByClient : 23782
+checkSumByServer : 19716
+checkSumByClient : 19278
+Error ! Checksum not the same , SegmentNumber is :388
+checkSumByServer : 20692
+checkSumByClient : 20692
+checkSumByServer : 23857
+checkSumByClient : 23648
+Error ! Checksum not the same , SegmentNumber is :390
+checkSumByServer : 22924
+checkSumByClient : 22924
+checkSumByServer : 22949
+checkSumByClient : 22444
+Error ! Checksum not the same , SegmentNumber is :392
+checkSumByServer : 20610
+checkSumByClient : 20610
+checkSumByServer : 21574
+checkSumByClient : 21427
+Error ! Checksum not the same , SegmentNumber is :394
+checkSumByServer : 20381
+checkSumByClient : 20316
+Error ! Checksum not the same , SegmentNumber is :395
+checkSumByServer : 23810
+checkSumByClient : 23745
+Error ! Checksum not the same , SegmentNumber is :396
+checkSumByServer : 23824
+checkSumByClient : 23824
+checkSumByServer : 22956
+checkSumByClient : 22542
+Error ! Checksum not the same , SegmentNumber is :398
+checkSumByServer : 23916
+checkSumByClient : 23705
+Error ! Checksum not the same , SegmentNumber is :399
+checkSumByServer : 23865
+checkSumByClient : 23662
+Error ! Checksum not the same , SegmentNumber is :400
+checkSumByServer : 19789
+checkSumByClient : 19590
+Error ! Checksum not the same , SegmentNumber is :401
+checkSumByServer : 19594
+checkSumByClient : 19391
+Error ! Checksum not the same , SegmentNumber is :402
+checkSumByServer : 20476
+checkSumByClient : 20457
+Error ! Checksum not the same , SegmentNumber is :403
+checkSumByServer : 22603
+checkSumByClient : 22603
+checkSumByServer : 20973
+checkSumByClient : 20774
+Error ! Checksum not the same , SegmentNumber is :405
+checkSumByServer : 21196
+checkSumByClient : 21196
+checkSumByServer : 21715
+checkSumByClient : 21715
+checkSumByServer : 20197
+checkSumByClient : 19544
+Error ! Checksum not the same , SegmentNumber is :408
+checkSumByServer : 19991
+checkSumByClient : 19521
+Error ! Checksum not the same , SegmentNumber is :409
+checkSumByServer : 24081
+checkSumByClient : 24081
+checkSumByServer : 23892
+checkSumByClient : 23892
+checkSumByServer : 19527
+checkSumByClient : 19294
+Error ! Checksum not the same , SegmentNumber is :412
+checkSumByServer : 20857
+checkSumByClient : 20587
+Error ! Checksum not the same , SegmentNumber is :413
+checkSumByServer : 19880
+checkSumByClient : 19880
+checkSumByServer : 22781
+checkSumByClient : 22495
+Error ! Checksum not the same , SegmentNumber is :415
+checkSumByServer : 21880
+checkSumByClient : 21582
+Error ! Checksum not the same , SegmentNumber is :416
+checkSumByServer : 22743
+checkSumByClient : 22475
+Error ! Checksum not the same , SegmentNumber is :417
+checkSumByServer : 22638
+checkSumByClient : 22638
+checkSumByServer : 22402
+checkSumByClient : 22015
+Error ! Checksum not the same , SegmentNumber is :419
+checkSumByServer : 18168
+checkSumByClient : 18168
+checkSumByServer : 19723
+checkSumByClient : 19502
+Error ! Checksum not the same , SegmentNumber is :421
+checkSumByServer : 23128
+checkSumByClient : 22690
+Error ! Checksum not the same , SegmentNumber is :422
+checkSumByServer : 21792
+checkSumByClient : 21727
+Error ! Checksum not the same , SegmentNumber is :423
+checkSumByServer : 19618
+checkSumByClient : 19404
+Error ! Checksum not the same , SegmentNumber is :424
+checkSumByServer : 20972
+checkSumByClient : 20751
+Error ! Checksum not the same , SegmentNumber is :425
+checkSumByServer : 22480
+checkSumByClient : 22480
+checkSumByServer : 22576
+checkSumByClient : 22355
+Error ! Checksum not the same , SegmentNumber is :427
+checkSumByServer : 19995
+checkSumByClient : 19555
+Error ! Checksum not the same , SegmentNumber is :428
+checkSumByServer : 19545
+checkSumByClient : 19526
+Error ! Checksum not the same , SegmentNumber is :429
+checkSumByServer : 19056
+checkSumByClient : 18931
+Error ! Checksum not the same , SegmentNumber is :430
+checkSumByServer : 18639
+checkSumByClient : 18542
+Error ! Checksum not the same , SegmentNumber is :431
+checkSumByServer : 15467
+checkSumByClient : 15305
+Error ! Checksum not the same , SegmentNumber is :432
+checkSumByServer : 19530
+checkSumByClient : 19297
+Error ! Checksum not the same , SegmentNumber is :433
+checkSumByServer : 20991
+checkSumByClient : 20991
+checkSumByServer : 21626
+checkSumByClient : 21393
+Error ! Checksum not the same , SegmentNumber is :435
+checkSumByServer : 18421
+checkSumByClient : 18137
+Error ! Checksum not the same , SegmentNumber is :436
+checkSumByServer : 20884
+checkSumByClient : 20815
+Error ! Checksum not the same , SegmentNumber is :437
+checkSumByServer : 21103
+checkSumByClient : 21103
+checkSumByServer : 20525
+checkSumByClient : 20525
+checkSumByServer : 19611
+checkSumByClient : 19307
+Error ! Checksum not the same , SegmentNumber is :440
+checkSumByServer : 18798
+checkSumByClient : 18450
+Error ! Checksum not the same , SegmentNumber is :441
+checkSumByServer : 19667
+checkSumByClient : 19667
+checkSumByServer : 19753
+checkSumByClient : 19753
+checkSumByServer : 20158
+checkSumByClient : 19878
+Error ! Checksum not the same , SegmentNumber is :444
+checkSumByServer : 19260
+checkSumByClient : 19260
+checkSumByServer : 17250
+checkSumByClient : 17250
+checkSumByServer : 22655
+checkSumByClient : 22205
+Error ! Checksum not the same , SegmentNumber is :447
+checkSumByServer : 17941
+checkSumByClient : 17876
+Error ! Checksum not the same , SegmentNumber is :448
+Errors Detected in Packet received from Server!
+Following is the file got from the server, content :HTTP/1.0 200 Document Follows
+Content-Type: text/plain
+Content-Length: 112948
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta charset="utf-8"/>                                                    <title>Test File</title><meta content="Auburn University, Auburn, Alabama, War Eagle" name="keywords"/><meta content="As the world continues to adapt and adjust to these unprecede�ted times, Auburn remains committed to those it serves. Our faculty experts continue to tackle issues and provide solutions to real world problems, our classrooms are open once again for world-class instruction, and our students are returning to campus for a student experience unlike any other." name="description"/><meta content="https://ahealthieru.auburn.edu" property="og:url"/><meta content="A Healthier U | Auburn University" property="og:title"/><meta content="Auburn University" property="o�:site_name"�><meta content="As the world continues to adapt and adjust to these unprecedented times, Auburn remains committed to those it serves. Our faculty experts continue to tackle is�ues and provide solutions to real world problems, our classrooms are open once again for world-class instruction, and our students are returning to campus for a student experience unlike any other." property="og:description"/><meta �ontent="https://ahealthieru.auburn.edu/_assets/images/ahealthieru-previ�w.jpg" property="og:image"/><script src="https://ajax.googleapis.com/a�ax/libs/jquery/2.1.1/jquery.min.js" type="text/javascript"></script><meta content="width=device-width, initial-scale=1.0" name="viewport�/><meta content="IE=edge" http-equiv="X-UA-Compatible"/><link href="//cdn.auburn.edu/assets/css/bootstrap.min.css" rel="stylesheet"/><link href="//cdn.auburn.edu/assets/css/bootstrap.min.c�s" rel="styl�sheet"/><link href="//cdn.auburn.edu/2016/_assets/css/global.min.css" rel="stylesheet"/><link href="//cdn.auburn.edu/2016/_assets/css/themes.css" rel="stylesheet"/><link href="//www.auburn.edu/template/images/favicon.ico" rel="shortcut icon"/><link rel="stylesheet" type="text/css" href="//www.auburn.edu/template/slick/slick/slick.css"><link rel="stylesheet" type="text/css" href="//www.auburn.edu/template/slick/slick/slick-theme.css"><script src="https://www.google.com/recaptcha/api.�s" type="text/javascript"></script><script src="https://use.typekit.net/xiy3wga.js" type="text/javascript"></script><�cript type="text/javascript">try{Typekit.load({ async: true });}catch(e){}</script><script src="//cdn.auburn.edu/2016/_assets/js/classie.js" type="text/javas�ript"></script><script src="//cdn.auburn.edu/2016/_assets/js/header_shrinker.js" type="text/javascript"></script></head>	<body id="" class=""><div class="content_row" id="gdpr" style="display:none;">	<div class="alert alert-info" role="contentinfo">		<button aria-label="Close" class="close" data-dismiss="alert" id="cookieAcknowledge" type="button">			<span aria-hidden="true�>x</span>		</button>		<p class="h4">Cookie Acknowledgement</p>		<p class="h5">This website uses cookies to collect information to improve your browsing experience. Please review our 			<a href="http://www.auburn.edu/privacy" style="font-weight: bold; border-bottom:1px solid #a1a1a1;">Privacy Statement</a> for more information.		</p>	</div></div><div aria-label="Mai� navigation and page content shortcuts" id="top" role="navigation"><a class="skip" href="#au_navigation">Skip to Navigation</a><a class="skip" href="#page_content">Skip to Content</a></div>	<header class="">		<!--------- PRE-NAVIGATION --------->        <div class="pre_nav_container">        <div class="content_container clearfix">                    <div class="col-md-5 hidden-xs preheader_left">            	<ul class="nav nav-justified">				<li class=""><a href="http://www.auburn.edu/students" aria-label�"Current Students">Students</a></li><li class=""><a href="http://www.auburn.edu/alumni" aria-label="Auburn Alumni Association">Alumni</a></li><li class=""><a href="http://auburn.edu/parents" aria-label="Parent and Family Programs">Parents</a></li><li class=""><a href="http://www.auburn.edu/employees" aria-label="Current Employees">Employees</a></li><li class=""><a href="http://www.auburn.edu/administration/" title="Auburn University Administration">Administration</a></li>					                </ul>      �    �</div>                         <div class="col-md-1 hidden-xs"></div>            <div class="col-md-6 col-xs-12 preheader_right">				<!-- START Des�top Items --><ul class="nav nav-justified collapse navbar-collapse" aria-label="Desktop Pre-header Right-Side Navigation links">	<li class="pre_apply">    	<a href="http://www.auburn.edu/admissions/attention-applicants.php">        	<span class="glyphicon glyphicon-ok"></span><span class="pre_nav_glyphlink">Apply Now</span>        </a>    </li>            	<li class="pre_give">    	<a href="http://www.auburn.edu/give">        	<span class="glyphicon glyphicon-gift"></span><span class="pre_nav_glyphlink">Give</span>		</a>	</li>	    <li>    	<a aria-label="Auburn University Librarie�" href="http://lib.auburn.edu/"><span class="glyphicon glyphicon-book"></span><span class="pre_nav_glyphlink" title="Auburn University Libraries">Libraries</span>        </a>    <�li>        <li>    	<a href="ht�p://www.auburn.edu/map"><span class="glyphicon glyphicon-map-marker"></span><span class="pre_nav_glyphlink">Map</span>        </a>�   </li>	    <li>    	<a href="http://auaccess.auburn.edu/"><span class="glyphicon glyphicon-phone"></span><spa� class="pre_nav_glyphlink">AU Access</span>        </a>	</li>	    <li class="pre_search">    	<a href="#" d�ta-toggle="collapse" data-target="#au_searchpanel" aria-expanded="false"><span class="glyphicon glyphicon-search"><span class="sr-only">Toggle Search</span></span></a>	</li></ul>                <!-- END Desktop Items -->        <!-- START Mobile Items -->          <ul class="v�sible-xs clearfix �reheader_right_mobile" aria-label="Mobile Pre-header Right-Side Navigation links">	<li class="pre_apply">    	<a href="http://www.auburn.edu/admissions/attention-applicants.html">        	<span class="glyphicon glyphicon-ok"></span><span class="pre_nav_glyphlink">Apply</span>        </a>    </li>        <li>    	<a aria-label="Auburn University Libr�ries" href="http://lib.auburn.edu/"><span class="glyphicon glyphicon-book"></span><sp�n class="pre_nav_glyphlink" title="Auburn University Libraries for Mobile Version">Libraries</span>        </a>    </li>     	<li class="pre_give">    	<a href="http://www.auburn.edu/give">        	<span class="glyphicon glyphicon-gift"></span><span class="pre_nav_glyphlink">Give</span>		</a>	</li>    	<li class="pre_auaccess">       	<a href="http://auacce�s.auburn.edu/">           	<span class="glyphicon glyphicon-phone"></span><span class="pre_nav_glyphlink">�U Access</span>		</a>	</li>    </ul><div �lass="collapse" id="au_searchpanel">    <div cl�ss="visible-xs">        <ul class="visible-xs clearfix preheader_right_mobile2">			<li>		    	<a href="http://www.auburn.edu/map"><span class="glyphicon glyphicon-map-marker"></span><span class="p�e_nav_glyphlink">Map</span>        		</a>		    </li>   		            <li>            	<a href="http://www.auburn.edu/main/sitemap.php">                	<span class="glyphicon glyphicon-sort-by-alphabe�"></span><span class="pre_nav_glyphlink">A-Z</span>				</a>			</li>                	<li>            	<a href="http://www.auburn.edu/main/auweb_campus_directory.html">                	<span class="glyphicon glyphicon-user"></span><span class="pre_nav_glyphlink">Find People</span>				</a>			</li>	</ul>         </div>	<!-- END Mobile Items -->            	<div class="pre_nav_search clearfix">�	<div class="col-md-4">			<a class="hidden-xs" h�ef="http://www.auburn.edu/mai�/sitemap.php">A-Z</a> |             <a class="hidden-xs" href="http://www.auburn.edu/main/auweb_campus_directory.html">People Finder</a>		</div>                                		<div cla�s="col-md-8 clearfi�">                            <form action="https://s�arch.auburn.edu" class="" method="get">				<input type="text" name�"q" aria-label="Auburn University Search" role="search" class="searchfield" placeholder="Search Auburn.edu" style="width:100%;">				<inpu� type="hidden" name="cx" value="006456623919840955604:pinevfah6qm">				<input type="hidden" name="ie" value="utf-8">                <input type="submit" class="�r-only" value="Search�/>			</form>            		</div>                            	</div>                        </div>                                  </div>                                    </div>		</div>   <div class="header_logos_container">    <div class="content_container">        <div class="header_logo col-xs-7 col-sm-5 col-md-4">        <a href="//www.auburn.edu/">        <img alt="�uburn University logo" class="hidden-print" src="//www.au�urn.edu/template/2016/_assets/images/auburn-logo-horizontal.svg"/>        </a>        <img alt="Auburn Unive�sity print logo" class="visible-print" src="//www.auburn.edu/template/2016/_assets/images/auburn-logo-horizontal-bw.png" style="width:200px;"/>        </div>				<div class="col-xs-5 col-sm-2 visible-xs hidden-print">    		<div class="col-xs-6 mobile_button_menu">			<button class="glyphicon glyphicon-menu-hamburger navbar-toggle" data-target=".js-navbar-collapse" data-toggle="collapse" type="button">            <span class="sr-only">Toggle navigation</span>            </button>			<�div>            			<div class="col-xs-6 mobile_button_search">                                    <button aria-expanded="false" class="glyphicon glyphicon-search" data-target="#a�_searchpanel" data-toggle="collapse" type="button">            <span class="sr-only">Toggle Search Area</span>            </button>			</div>		</div>                <div class="col-md-2 col-sm-1"></div>     	<div class="header_se�ondary col-xs-12 col-sm-6 col-md-6">                                            <span class="unit_title"></span>                                <span class="unit_subtitle�></span>                                    </div>                                <div style="clear:both;"></div>	  	</div>                </div>		</header>		<div class="page_�ontent_spacer"></div>		<link href="//ahealthieru.auburn.edu/_ass�ts/css/style.css" rel="stylesheet"/><div class="page_content page-index tradegothic" id="page_content" role="main">		<div class="video-controls">			<div class="vid-controls hidden-xs hidden-sm hidden-md" id="buttons">			<a id="play" class="play" onclick="myFunction()"><span class="glyphicon glyph�con-play				"></span><span class="sr-only">Play background video</span></a>			<a id="pause" class="pause" onclick="myFunction()"><span class="glyphicon glyphicon-pause				"></span><span class="sr-only">Pause background Video</span></a>			</div>		</div>			<h1 class="sr-only">A Healthier U</h1>		<div class="content_row content_topper clearfix" style="">				<div class="content_container">			<div class="col-sm-3"></div>			<div class="col-sm-6">				<img src="//ahealthieru.auburn.edu/_assets/images/ahealthieru-white.png" alt="A Healthier U">			</div>			<div class="col-sm-3"></div>		</div>									<div class="filter"></div>				<div class="videobg">			<div class="embed-responsive emb�d-responsive-16by9">				<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/432529967?autoplay=1&controls=0&loop=1&title=0&byline=0&portrait=0&background=1" style="position:absolute;top:0;left:0;width:100%; height:100%;" allow="autoplay" title="Decorative Video" id="video"></iframe><script src="https://player.vimeo.com/api/player.js"></script>						</div>		</div>		    </div>		<div class="conten�_row plans">			<div class="content�container intro">					<div class="content_row_title uppercase tradegothic">Our Plans</div>					<p>A� the world continues to adapt and adjust to these unprecedented times, Auburn remains committed to those it serves. Our faculty experts continue to tackle issues and provide solutions to real�world problems, our classrooms are open once again for world-class instruction, and our students are returning to campus for a stude�t experience unlike any other. As we resume campus activities—under the guidance of public health officials—our top priority is the health and safety of the Auburn Family. We encourage you to read our comprehensive plans for a safe and healthy return to c�mpus.</p>					</div>	�		<div class="content_container mainlinks">					<div class="col-sm�4 item">				<a id="au_navigation" href="https://aub.ie/reentry-operations" class="btn uppercase tradegothic-light">Operational<br class="hidden-xs"/> Plan</a>			</div>						<div class="col-sm-4 item">				<a href="https://aub.ie/reentry-academic" class="btn uppercase tradegothic-light">Academic<br class="hidden-xs"/> Plan</a>			</div>						<div class="col-sm-4 item">				<a �ref="https://aub.ie/reentry-students" class="btn �ppercase tradegothic-light">Student<br class="hidden-xs"/> Plan</a>			</div>					</div>			</div>		<div class="content_row faq">			<div class="content_container">					<div class="content_row_title uppercase tradegothic">Frequently Asked Questions</div>					  <!-- Nav tabs -->			<ul class="nav nav-pills nav-justified" role="tablist">				<li role="presentation" class="active"><a href="#operations" aria-controls="operations" role="tab" data-toggle="tab">Operations</a></li>								<li role="presentation"><a href="#academics" aria-controls="academics" role="tab" data-toggle="tab">Academics</a></li>								<li role="presentation"><a href="#students" aria-controls="s�udents" role="tab" data-toggle="tab">Students</a></li>			</ul>		  <!-- Tab panes -->			<div class="tab-content">				<div role="tabpanel" class="tab-pane fade in active" id="operations">															<div class="item">						<a class="�tn question" data-toggle="collapse"�href="#safety_01" aria-expanded="false" aria-controls="collapseExample">							Are face coverings required on campus?						</a>						<div class="collapse" id="safety_01">	�					<div class="answer">								<p>Face coverings must be worn by everyone inside university buildings. Face coverings must also be worn outdoor� on campus when appropriate physical distancing is impractical or impossible. This requirement is a key component of a safe return to campus and is aligned with <a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html">current guidance from the CDC</a>. When used along with physical �istancing, good health etiquette and surface disinfection, face coverings can help redu�e the risk of transmitting �OVID-19 to others. Face coverings are not required when alone in a private office or in a residence hall room alone or with a room�ate. Individuals should bring their own face covering to campus.</p>							</div>						</div>					</div>											<div class="item">						<a class="btn question" data-toggle="collapse" href="#safety_02" aria-expanded�"false" aria-controls="collapseExample">							What is the university’s policy on events?						</a>						<div class="collapse" id="safety_02">							<div class="answer">								<p>Auburn will adhere to special guidelines for university �vents through Oct. 10.</p>																<ul>									<li><p><a href="https://ocm.auburn.edu/news/coronavirus/updates/20200611-event-guidelines.php">Campus Events Guidelines</a></p></li>									<li><p><a href="htt�s://sites.auburn.edu/admin/universitypolicies/Policies/CampusEventsPolicy.pdf">Campus Events Policy</a></p></li>								</ul>																</div>						</div>					</div>										<div class="item">						<a class="btn question" data-toggle="collapse" href="#safety_03" aria-expanded="false" aria-controls="collapseExample">							Wh�t are the guidelines for university travel?						</a>						<div class="collapse" id="safety_03">							<div class="answer">								<p>All university domestic and international air travel is suspended. On March 19, a <a href="https://travel.state.gov/content/travel/en/traveladvisories/ea/travel-advisory-alert-global-level-4-health-advisory-issue.html">Level 4: Do Not Travel advisory</a> was iss�ed by the Department of State, advising against all international travel due to the global impact of COVID-19. <em>Review recommendations from the <a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html">CDC</a> and <a �ref="https://travel.state.gov/content/travel/en/traveladvisories/ea/travel-advisory-alert-global-l�vel-4-health-advisory-issue.html">U.S. Department of State</a> before considering travel.</em></p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#safety�04" aria-expanded="false" aria-controls="collapseExample">							Are ca�pus visitors required to follow university pr�tocols?						</a>						<div class="collapse" id="safety_04">							<div class=�answer">								<p>Campus visitors are expected to follow all safety protocols, including wearing a mask inside buildings. Social distancing and other good health etiquette is importan� for everyone on campus.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#safety_05" aria-expanded="false" aria-controls="collapseExample">							What do I need to do before r�turning to �ampus for work?						</a>						<div class="collapse" id="safety_05">							<div class="answer">								<p>�ll employees and students are expected to watch a video and read a safety summary before returni�g to campus. A <a href="https://ssbprod.auburn.edu/pls/PROD/pzgropt.p_pzgropt_main">website that in�ludes acknow�edgement of COVID-19 risks on campus</a> is available.</p>							</div>						</div>					</div>					<div class="item">						<a class=�btn question" data-toggle="collapse" href="#safety_06" aria-expanded="false" aria-controls="collapseExample">							What measures a�e being taken on campus to help ensure safety?						</a>						<div class="collapse" id="safety_06">							<div class="answer"�								<p>Campus buildings, including classrooms and student spaces, are cleaned and disinfected more frequently. Signage is posted to reinforce new safety protocols. Everyone on campus is expected to follow basic health protocols, including wearing a face covering indoors and even outdoors when physical distancing of 6 feet or more is not possible.</p>																<p><strong><a href="http://www.auburn.edu/administration/facilities/Covid-19/index.html">More information from Facilities Management</a></strong></p>															</div>						</div>					</div>					<div class="item">						<a c�ass="btn question" data-toggle="collapse" href="#safety_07" aria-expanded="false" aria-controls="collapseExample">							When will campus tours resume?						</a>						<div class="collapse" id="safety_07">							<div clas�="answer">		�					<p>Auburn University currently has several options available for campus tours.  Guests can tour campus virtu�lly by visiting our <a href="https://www.youvisit.com/tour/auburn/auburn?tourid=tour1#VisitCampus">360-degree tour</a>.  This option is available on-demand for your convenience. If you are on campus and would like to take a tour of campus on-your-own, a self-guided tour is also available. The self-guided tour �an be found at a�burn.edu/visit. In-person guided campus tours will be available beginning Sept. 8. Registration for in-person guided tours will be available mid-July.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#safety_0�" aria-�xpanded="false" aria-controls="collapseExample">							Questions about Human Resources?						</a>						<div class="collapse" id="safety_08">							<div class="answer">								<p>For more information regarding Human Resources' response to COVID-19, please visit <a href="http://www.auburn.edu/administration/human_resources/coronavirus.html">the Human Resources Coronavirus FAQ page</a>.</p>							</div>						</div>					</div>									</div>								<div role="tabpanel" class="tab-pane fade" id="academics">						�							<di� class="alert alert-info">Fall 2020 Academic Calendar</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_01" aria-expanded="false" aria-controls="collapseExample">							When will the fall 2020 semester start and end?						</a>						<div class="collapse" id="academics_01">							<div class="answer">								<p>Fall 2020 classes will begin on Aug. 17, 2020. In-person classes will end on Nov. 24, 2020. Final exams start Dec. 2, 2020, and end on Dec. 8, 2020, and will be administered online only.</p>							</div>						</div>					</div>											<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_02" aria-expanded="false" aria-controls="collapseExample">							Is fall break canceled?						</a>						<div class="collapse" id="academics_02">							<div class="answer">								<p>Yes. To lessen pandemic travel r�sks, Auburn University has canceled fall break, initially scheduled for Oct. 8 and 9.</p>							</div>						</div>					</div>										<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_03� aria-expanded="false" aria-controls="collapseExample">							When is the last day to withdraw from classes?						</a>						<div class="collapse" id="academics_03">							<div class="answer">								<p>The final day students can officially withdraw from a course in Fall semester is Tuesday, Nov. 24.</p>							</div>						</div>					</div>					<div class="alert alert-info">Final Examinations</div>	�			<div class="item">						<a class="btn question" data-to�gle="collapse" href="#academics_04" aria-expand�d="false" aria-controls="collapseExample">							With finals rescheduled, how do faculty know when to give final exams?						</a>						<div class="collapse" id="academics_04">							<div class="answer">								<p>The modified final exam schedule is posted on the <a href="http://www.auburn.edu/administration/registrar/documents/F�ll_Exam_Schedule_2020.pdf">Office of the Registrar website</a>.</p>							</div>						</div>					</div>						�				<div class="item">						<a class�"btn question" data-toggle="collapse" href="#academics_05" aria-expanded="false" aria-controls="collapseExample">				�		Is the University providing proctoring assistance for administering remote exams?						</a>						<div class="collapse" id="academics_0�">							<div class="answer">								<p>Yes. The University is covering the cost of virtual proctoring. Faculty should conf�gure their Canvas courses to administer the remote exams. Support is available through <a href="mailto:btctest@auburn.edu">Biggio Testing Services</a>.</p>							</div>						</div>					</div>									�<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_06" aria-expanded="false" aria-controls="collapseExample">							Can faculty give final exams during the last few da�s of the semester?						</a>						<div class="collapse" id="academics_06">							<div class="answer">								<p>To give students appropriate time to�prepare for final exams and avoid the possibility of students having multiple final exams during instructional days, faculty should refrain from giving final exams during the last �everal instructional days of class.</p>							</div>						</div>					</div>					<div class="item"�						<a class="btn question" data-toggle="collapse" href="#academics_07" aria-expanded="false" aria�controls="collapseExample">							Are faculty required to give final exams in undergraduate courses? Can faculty use a different kind of �ssessment?						</a>						<di� class="collapse" id="academics_07">							<div class="answer">								<p>The Policy on Undergraduate Examinations states that in "unusual circumstances, performance tests, term papers, research projects or other forms of evaluation appropriate to the objectives of the course may be substituted for a final examination with the approval of the department head, who will report such action to the dean and provost."</p>								<p>Because the Fall 2020 semester will be conducted under unusual circumstances, faculty can use other forms of evaluation. In addition to this flexibility, the requirement to notify the Provost's Office of the alternate form outlined in the policy is waived for fall 2020. Deans may also waive this �otification requirement for the fall semester if desired.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_08" ari�-expanded="false" aria-controls="collapseExam�le">							What measures are in place to prevent cheating with online courses?						</a>						<div class="collapse" id="academics_08">							<div class="answer">								<p>Auburn will utilize HonorLock, ProctorU, and ExamSoft for online examinations. All students are expected to follow the <a href="https://sites.auburn.edu/admin/universitypolicies/Policies/AcademicHonestyCode.pdf">Auburn University Academic Honesty Code</a>. Faculty may also redesign a test or assignment to another form of assessment that discourages cheating or may choose not to administer final exams.</p>							</div>						</div>					</div>					<div class="alert alert-info">Academic Instruction</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_09" aria-expanded="false" aria-controls="collapseExample">							How will classes be offered (in-person or remote)?						</a>						<div class="collapse" id="academics_09">							<div class="answer">								<p>Courses will be offered through a mix of in-person and remote delivery, with the intent to offer as many in-person classes as reasonable. Classes will be offered through one of four modalities: (1) Face-to-Face, (2) Online, (3) Blende�, and (4) �yFlex. Faculty will determine which instructional methods best align with the learning outcomes of their courses, and the chosen methods will be published in the Univer�ity's scheduling systems by Aug. 1.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_10" aria-expanded="false" aria-controls="collapseExample">							Do faculty need to inform anyone of the instructional method they plan to use?		�			</a>						<div class="collapse" id="academics_10">							<div class="answer">								<p>Yes. We have asked Department Chairs to report to the Office of the Registrar, by Jul. 27, the instructional method for each course section. The instructional method will be input into the University's registration systems, which will allow students to understand the methods they can expect and alter their schedules if desired and seats ar� available.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_11" aria-expanded="false" aria-controls="collapseExample">							Wh�re will the instructional method be displayed�					</a>						<div class="collapse" id="academics_11">							<div class="answer">								<p>The instructional method for each course will be loaded as an attribute in Banner and will be searchable in scheduling interfaces such as Self-Serve Banner and Tiger Scheduler.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_12" aria-expanded="false" aria-controls="collapseExample">							What happens if a faculty member changes his/her mind on an instructional method after it is reported or after the course begins?						</a>						<div class="collapse" id="academics_12">							<div class="answer">								<p>Faculty maintain flexibility in�delivering their courses and can change the instructional method if needed. As any change can cause disruption, confusion, and possible uninten�ed consequences, we �sk faculty to communicate any changes clearly and to accommodate reasonable student concerns to the greatest extent possible, especially when the change occurs.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#acad�mics_13" aria-expanded="false" aria-controls="collapseExample">							Will students have a choice in class for their delivery method?						</a>						<div class="collapse" id="academics_13">							�div class="answer">								<p>Students will�be able to search for courses by the instructional method and adjust their fall schedules if desired and if seats are available. Course modalities will be identified in Tiger Scheduler by Aug. 1.</p>					�	</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_14" aria-expanded="false" aria-controls="collapseExample">							Will the University again transition to remote instruction?						</a>						<div class="collapse" id="academics_14">							<div class="answer">								<p>If Auburn must revert to remote instruction due to the escalation of COVID-19, all classes will be prepared to do so. Auburn will also provide access to online course delivery for students whose health conditions prevent them from attending class in-person and international students who cannot be on campus due to travel restrictions or other circumstances related to the pandemi�.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_15" aria-expanded="false" aria-controls="collapseExample">							Is Auburn adjusting tuition for the upcoming school year due to different class delivery modes?						</a>						<div class="collapse" �d="academics_15">							<div class="answer">								<p>No. Auburn’s tuition and fee structure have been established regardless of the method of instruction. Tuition and fees will not be altered in the event tha� the mode of instruction is changed for any course for all or part of the semester. Auburn remains committed to offering the highest quality academic experience and will maintain the high quality of instruction that students expect while earning th�ir degrees, regardless of the mode of course delivery. Auburn’s faculty will continue to teach courses, and the course curricula w�ll continue to prioritize the learning outcomes that faculty have established.</p>	�					</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_16" aria-expanded="false" aria-controls="collapseExample">							Will Auburn permit the modified pass/fail option as it did for the spring 2020 semester?						</a>						<div class="collapse" id="academics_16">							<div class="answer">								<p>No. Course grading returned to the regular University grading policy for the summer an� fall 2020 semester.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_17" aria-expanded="false" aria-controls="collapseExample">		�				Is Auburn waiving �ny testing or admissions requirements for graduate students applying to the University?						</a>�					<div class="collapse" id="academi�s_17">							<div class="answer">								<p>Yes. The University has te�porarily waived test requirements for admission to most graduate programs that require the Gr�duate Records Examinations, or GRE, and the Graduate Management Admission Test, or GMAT, for summer 2020, fall 2020, and spring 2021 admissions periods. Not all programs are waiving test requirements, so please check with specific progr�ms for additional details.</p>							</div>						</div>					</div>					<div class="alert alert-info">Resources for Faculty</div>					<div�class="item">						<a class="btn question" data-toggle="collapse" href="#academics_18" aria-expanded="false" aria-controls="collapseExample">							If a facu�ty member is interested in HyFlex and would like assistance in managing their class, where can he/she request that assistance?						</a>						<div class="collapse" id="academics_18">							<div class="answer">								<p>The Biggio Center wi�l have several trained students who can assist. If you already have a student you would like to�help you, the Biggio Center can train the student. Email <a href="mailto:biggio1@auburn.edu">biggio1@auburn.edu</a> with the course informatio� to get started.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_19" aria-expanded="false" aria-controls="collapseExample">							How do faculty request assistance �ith recording a class?						</a>						<div class="collapse" id="academics_19">							<div class="answer">								<p>The Biggio Center can train faculty to optimally record classes. Email <a href="mailto:biggiotech@auburn.edu">biggiotech@auburn.edu</a> for support.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn questi�n" data-toggle="collapse" href="#academics_20" �ria-expanded="false" aria-controls="collapseExample">							What should fac�lty do if a class is not conducive to recording?						</a>						<div class="collapse" id="academics_20">							<div class="answer">								<p>If recording a class does not make sense, the faculty member �ay use other me�ns to capture the course. Whether recorded or alternatively captured, the goal is to make the course content available to students who cannot attend due to COVID-19 issues. Faculty may consider using the course learning objectives to provide alternative activities for students who cannot attend.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_21" aria-expanded="false" aria-controls="collapseExample">							Do faculty need student permission to record a class?						</a>						<div class="collapse" id="academics_21">							<div class="answer">								<p>No. Permission is not needed if the faculty member is using the recording for the current class only.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_22" aria-expanded="false" aria-controls="collapseExample">							Who controls any recordings of a class?						</a>						<div class="collapse" id="academics_22">							<div �lass="answer�>								<p>Faculty can decide what to do with their course recordings. Faculty can �onsult the university’s <a href="https://sit�s.auburn.edu/admin/universitypolicies/Policies/PolicyGoverningtheCreationofCopyrightedMaterial.pdf">Policy Governing the Creation of Copyrighted Material</a> and the university’s <a href="https://sites.auburn.edu/admin/universitypolicies/Policies�PolicyGoverningTheUseOfCopyrightedMaterial.pdf">Policy Governing the Use of Copyrighted Material</a> for additional information.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_23" aria-expanded="false" aria-controls="collapseExample">							What resources are available for faculty to teach classes in the Online, Blended or HyFlex modalities?						</a>						<div class="collapse" id="aca�emics_23">							<div class="answer">								<p>The <a href="http://wp.auburn.edu/biggio/">Biggio Center</a> is a central resource that offers faculty training, mentoring, information, and various other support materials for instruction. Resources and training for the following are available to all faculty:</p>																<ul>									<li><p><strong>Decision Trees</strong> – Tools to assist faculty in choosing the best instructional methodology by considering �ultiple situational and pedagogical factors.</p></li>									<li><p><strong>Directed Workshops</strong> – Groups of faculty can participate in training on how to utilize the differ�nt�instructional methodologies best.</p>�/li>									<li><p><strong>Classroom Management Assistance</strong> – The University will provide classroom management assistance, if desired, to manage the students participating online. For example, if online students enter the class through Zoom, a student worker can manage questions from online students.</p></li>									<li><p><strong>Sample Syl�abus Language</strong> – Sample language for various scenarios and expectations regarding fall semester instruction.</p></li>									�li><p><strong>Exam Support</strong> – Support for proctored exams within the Biggio Testing Center and those with third-par�y platforms, as well as consultations regarding possible alternatives to high-stakes exams.</p></li>					�			<li><p><st�ong>Technical Support</strong> – Support for Canvas, Z�om, Panopto, and other instructional technologies.</p></li>								</ul>															</div>						</div>					</div>					<div class="alert alert-info">Safety Precautions</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_24" aria-expanded="false" aria-controls="collapseExample">							How will classrooms and laboratories accommodate appropriate physical distancing?						</a>						<div class="�ollapse" id="academics_24">							<div class="answer">								<p>All classrooms and laboratories will be limited to 50�percent capacity to allow for appropriate physical distancing.</p>							</div>						</div>					<�div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_25" aria-expanded="false" aria-controls="collapseExample">							Are face coverings required in face-to-face classes even though students will be physically distanced?						</�>	�				<div class="collapse" id="academics_25">							<div class="answer">								<p>Yes. Consistent with Auburn University policy and current guidelines regarding COVID-19, Auburn requires all employees, students, vendors, and visitors to wear face coverings in campus buildings. Face coverings must also be worn in informal ac�demic spaces, classrooms, laboratories, and offices.</p>																<p>Face coverings should be worn in combination with other measures to prevent illness, including maintaining appropriate distancing from other people; washing hands regularly with soap and water for at least 20 seconds; avoiding touching eyes, nose, and mouth; and staying home if sick.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn q�estion" data-toggle="collapse" href="#academics_26" aria-expanded="�alse" aria-controls="collapseExample">							Can faculty members wear face shields when teaching?						</a>						<div class="collapse" id="academics_26">	�					<div class="answer">								<p>The University will provide all interested faculty with a face shield to use�in teaching classes. The CDC does not recommend using face shields for regular/daily acti�ities or as a substitute for cloth face cov�rings outside the classroom.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_27" aria-expanded="false" aria-controls="c�l�apseExample">							What should faculty do if a student r�fuses to wear a face covering in class?						</a>						<div class="collapse" id="academics_27">							<div class="answer">								<p>Students refusing to wear face coverings violate Auburn University's Jun. 22, 2020 <a href="https://ocm.auburn.edu/news/coronavirus/updates/20200618-face-masks-required.php">Policy on Face Masks</a> and the <a href="https://sites.auburn.edu/admin/universitypolicies/Policies/CodeofStudentConduct.pdf">University's Code of Student Conduct</a>. Students refusing to wear masks may be asked to leave the classroom.</p>							</div>						</div>					</div>					<div class="item">						<a class="b�n question" data-toggle="collapse" href="#academics_28" aria-expanded="false" aria-controls="collapseExample">							What will the University be doin� to keep classrooms and laboratories clean and disinfected?						</a>						<div class="collapse" id="academics_28">							<div class="answer">	�	�				<p>Auburn's cleaning and disinfecting protocols have been heightened across the entire campus to make sure surfaces, including critical touchpoints, are cleaned daily�</p>								<p>In addition to enhanced cleaning, faculty and�students are encouraged to wipe down commonly used surfaces in conference rooms and common areas. Students who have touched surfaces in classrooms, common areas, or other academic spaces are encouraged to wipe down the surfaces with cleaning products provided in the space.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_29" aria-expanded=�false" aria-controls="collapseExample">							What should faculty member� do if they test posi�ive for COVID-19?						</a>						<div class="collapse" id="academics_29">							<div class="answer">								<p>Faculty who test positive will be expected to isolate at home or elsewhere off-campus and return to the campus community only after all of the proper public health protocols have been followed.</p>								<p>Faculty should identify and communicate to the department chair a back-up instructor in the event the faculty member cannot hold classes due to isolation, quarantine, or other COVID-19 concerns.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_�0" aria-expanded="false" aria-controls="collapseExample">							Will faculty still have office hours?						</a>						<div class="collapse" id="academics_30">							<div class="answer">								<p>Yes. Faculty members can host office hours, either remotely or in-person. If their offices can accommodate visitors and allow for appropriate distanci�g, then in-person office hours are possible. Faculty and students are required to wear face coverings for in-person meetings.</p>							</div>						</div>					</div>					<div class="alert alert-info">Stay Safe Together Platform</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_31" aria-ex�anded="false" aria-controls="collapseExample">							What is Healthcheck?						</a>						<div class="collapse" id="academics_31">							<div class="answer">								<p>In partnership with the University of Alabama at Birmingham (UAB), Healthcheck is a web-based C�VID-19 assessment tool for employees and students that assesses the existence of current COVID-19-related symptoms and exposure and testing history. Designed by UAB and implemented at Auburn, the req�ired assessment enables the campus to return safely and help our community beat COVID-19.</p>								<p>Healthcheck is used to manage large groups and reduce the risk �f further exposure to COVID-19. Healthcheck informs public health and un�versity officials about emerging symptom hot spots before these areas have catastrophic consequences. It also helps university health officials on prioritizing participants who might need COVID-19 testing.</p>	�					</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_32" aria-expanded="false" aria-controls="collapseExample">							How does Healthcheck �ork?						</a>						<div class="collapse" id="academics_32">							<div class�"answer">								<p>Students are required to log on daily to share sym�toms — even if they feel healthy — to ensure a safe return to campus. Th� initial survey takes about 20 seconds to complete. Daily surveys take about 10 seconds to complete</p>								<p>Students are required to c�mplete Healthcheck daily. Auburn strongly encourages faculty and staff to also complete it daily and offers an option to �et a reminder.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_33" aria-expanded="false" aria-controls="collapseExample">							What happens if a student does not honestly complete the Healthcheck screening tool?						</a>						<div class="collapse" id="academics_33">�						<div class="answer">								<p>With any self-administered system, the possibility of inaccurate reporting ex�sts. Auburn's goal is broad acceptance and accurate reporting through the positive messaging of the "A Healthier U" campaign.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_34" aria-expanded="false" aria-controls="collapseEx�mple">							What happens when an individual reports symptoms through the Heathcheck screening tool?						</a>						<div class="collapse" id="academics_34">							<div class="answer">								<p>The individual is directed to the Auburn University Medical Clinic for evaluation and possible testing.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_35" aria-expanded="false" aria-controls="collapseExample">							Under what conditions will an individual receive a red or green pass?						</a>						<div class="collapse" id="academics_35">							<div class="answer">�							<p>If the survey responses indicate that the user is symptom-free and has no close exposure to someone with COVID-19 illness, the individual is cleared to re-enter campus and receives a green pass.</p>																<p>If Healthcheck responses show the user is currently experiencing COVID-19 symptoms or has been exposed to someone with COVID-19, or has been �iagnosed with COVID-19 in the preceding weeks, the user will not be permitted to re-enter campus until medically cleared by the AU Medical Clinic and will receive a red pass.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_36" aria-expanded="false" aria-controls="collapseExample">							How long does a pass last?						</a>						<div class="collapse" id="academics_36">							<div class="answer">								<p>Each pass lasts for 24 hours.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_37" aria-expanded="false" aria-controls="collapseExample">							Is Healthcheck secure? Is individual privacy protected?						</a>						<div class="collapse" id="academics_37">							<div class="answer">								<p>Healthcheck is a HIPAA compliant platform. To access the tool, you will need to use your Auburn ID. The assessment tool does not track individuals. It is a tool for student� and employees to report COVID-19 symptoms and any exposure. It does not track an individual's location.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_38" aria-expanded="false" aria-controls="collapseExample">							How do students and employees access the tools? Is a smartphone required?						</a>						<div class="collapse" id="academics_38">							<div class="answer">								<p>To access Healthcheck, you will need an Auburn ID.</p>																<p>Healthcheck is available on the "My Campus," tab in AU Access. It can b� accessed on a mobile app or the AU Access portal. It is mobile-enabled so that it can be easily viewed on a mobile device. The site can be pinned to a smartphone home screen so that it appears as an app.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_39" aria-expanded="false" aria-controls="collapseExample">						�Will s�udents be required to share their daily pass?						</a>						<div class="collapse" id="academics_39">							<div class="answer">								<�>Fa�ulty may ask students to share their pass�during face-to-face instruction.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_40" aria-expanded="false" aria-controls="collapseEx�mple">							What keeps an individual from capturing a green passport and sho�ing it every day?						</a>						<div class="collapse" id="academics_40">							<div class="answer">								<p>The pass screens are date stamped; thus, it is only valid for the day of the symptom check.</p>							</div>						</div>					</div>					<div class="item">						<a class="b�n question" data-toggle="collapse" href="#academics_41" aria-expanded="false" aria-controls="collapseExample">							Why do�s Auburn send the aggregate Healthcheck screening data to the Alabama Department of Public Health?						</a>						<div class="collapse" id="academics_41">							<div class="answer">								<p>Reporting information to the State will enable Alabama to understand the potential spread of the virus better. Other educational institutions in the State are reporting to the State as well.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" da�a-toggle="collapse" href="#academics_42" aria�expanded="false" aria-controls="collapseExample">							Can the Exposure Notificat�on app be required of all individuals?						</a>						<div class="collapse" id="academics_42">							<div class="answer">								<p>No. While the symptom tracker�is re�uired of all students, Auburn University cannot require participation in the Exposure Notification app (i.e., the contact tracer). However, �articipation is strongly encouraged among students, faculty, and sta�f.</p>	�					</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_43" aria-expanded="false" aria-con�rols="collapseExample">							If a student receives a red-screen from Healthcheck and, following communication with the Medical Clinic, is cleared to return to campus, will Healthcheck reset his/her status?						</a>						<div class="collapse" id="academics_43">							<div class="answer">								<p>If a student receives a red screen due to symptoms�not attributed to COVID-19 and is cleared by the Medical Clinic, he/she is cleared the same way they would be for any other health condition and will need a note from a doctor or nurse practitioner.</p>							</div>						</div>					</div>					<div class="alert alert-info">Student Information�/div>					<div class="item">						<a class="btn question" data-toggle="collapse" hre�="#academics_43" aria-expanded="false" aria-controls�"collapseExample">							Is Auburn University permitting study abroad programs in fall 2020?						</a>						<div class="collapse" id="academics_43">							<div class="answer">								<p>To date, all international programs requiring a current decision have been canceled. Those programs with a later decision date will be made at that time. Students shou�d contact the administrators of the program to determine if a specific program has been canceled.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" dat�-toggle="collapse" href="#academics_44" aria-expanded="false" aria-controls="collapseExample">							Are international students permitted to come to campus for fall 2020?						</a>						<div class="collapse" id="academics_44">						�<div class="answer">								<p>Yes. For international students, the latest arrival date under the current U.S. Student and Exchange Visitor Program policy is within 30 days of the academ�c term start date to be eligible for F-1 status. All international students must quarantine for 14 days upon arrival to campus and be COVID-19 tested.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collaps�" href="#academics_45" aria-expanded="false" aria-controls="collapseExample">							If the Univ�rsity has to transition to remote instruction, what should students witho�t digital textbooks do?						</a>						<div class="collapse" id="academics_45">							<div class="answer">								<p>The Auburn University Bookstore is available to support students in need of electronic �extbooks and digital and print course material. �tudents can inquire about <a href="https://www.aubookstore.com/t-COVID19info.aspx">available resources on the bookstore website</a>.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_46" aria-expanded=�false" aria-controls="collapseExample">							How will the University continue to accommodate students with disabilities if they are learning remotely?						</a>						<div class="collapse" id="academics_46">							<div class="answer">								<p>The <a href="https://accessibility.auburn.edu/">Office of Accessibility</a> will continue to administer accommodations to students and maintains resources to assist students with remote learning.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="�ollapse" href="#academics_47" aria-expanded="false" aria-controls="collapseExample">							How can students access academic advisors and other resources, such as Academic�Support, University Writing, and Career Services, if the University has to transition to remote operations?						</a>						<div class="collapse" id="academics_47">							<div class="answer">								<p>All academic student services�will be available to students during the fall semester. Faculty and students should consult a unit's website or other communications to understan� how those services may be accessed.</p>							</di�>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#academics_48" aria-expanded="false" aria-controls="collapseExample">							Can students enroll in online-only courses this fall?						</a>						<div class="collapse" id="academics_48">							<div class="answer">								<p>In fall 2020, Auburn faculty will teach courses using one�or more of four identified instructional methods. These �ethods incl�de face-to-face as well as blended �r online approaches. The instructional method for each course will be available in Tiger Scheduler by August 1, 2020. At that time, students will know how their fall courses are being delivered. Depending on a student’s current fall schedule, he/she could have all of their courses offered online, all face-to-face, o� a �ix of all four methods. Students with flexibility in their degree requirements may look for course sections identified for online delivery and adjust their schedules accordingly. Students may also watch recorded lectures from face-to-face or HyFlex courses. While the university cannot guarantee that a student’s current schedule will be delivered entirely in one modality, students may develop an online fall schedule that supports their instructional needs while en�bling continued academic progression. Some students, for example, international students, may be required to take one or more face-to-face courses. Students are encouraged to reach out to their academic advisor if they have questions about modifying their fall schedules or transitioning course sections.</p>							</div>					�</div>					</div>													</div>								<div role="tabpanel" class="t�b-pane �ade" id="students">														<div class="alert alert-info">General – On-Campus</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_01" aria-expanded="false" aria-controls="collapseExample">							What measures is Auburn taking in preparation for a safe return to campus activity?						</a>						<div class="collapse" id="students_01">							<div class="answer">								<p>A Healthier U is the Universi�y’s comprehensive and evolving plan to keep our campus and our community healthy and safe by minimizing the spread of COVID-19. Read <a href="//ahealthieru.auburn.edu/student.php">the student plan</a> outlined in the AHealthierU Plan.</p>							</div>						</div>					</div>											<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_02" aria-expanded="false" ari�-con�rols="collapseExample">							Will I have to answer health questions to go to class?						</a>						<div class="collapse" id="students_02">							<div class="answer">								<p>Yes.  Heath screening will be enabled through He�lthcheck, a COVID-19 assessment tool that allows individuals to report COVID-19 health status, sympto�s, and exposure. Students are required to complete the screening each day before they come to campus. By responding to a series of screener questions regarding symptoms, the daily health screening provides a ‘pass’ for the student to move around campus (i.e., a green screen indicates the student is cleared to move around campus, whereas a red screen indicates the student is not cleared to be on campus). Students who report specific conditions will be instructed to contact the Auburn University Medical Clinic for evaluati�n and possible testing. St�dents will not be tested unless�recommended by the Medical Clinic.</p>							</div>			�		</div>					</div>										<div class="item�>						<a class="btn question" data-toggle="collapse" href="#students_03" aria-expanded=�false" aria-controls="collapseExample">							Will I be notified if I have been exposed to COVID-19?						</a>						<div class="collapse" id="students_03">							<div class="answer">								<p>In conjunction with the Alabama Department of Public Health, Auburn will implement a proximity/exposure notification application as part of the Stay Safe Together™ platform. Individuals will be able to use the app to report a positive test result and anonym�usly notify other indiv�duals with whom the person has been in proximity that they may have been exposed to the virus. The benefit of downloading and using the application is that it will help improve tracing effort� to reduce the spread of the virus. Use of the application is vol�ntary, but strongly encouraged.</p>																<p>All information collected b� the STAY SAFE TOGETHER™ platform will be collected and stored in HIPAA-compliant servers. The information collected is held anonymously, and there are no identifying values that can link the information to the participant. The generalized information will help the University mitigate possible spread of the virus and support the efforts�of the Alabama Department of Public Health to protect individuals from COVID-19.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_04" aria-expanded="false" aria-controls="collapseExample">							What if I have a medical condition that makes me vulnerable to serious illness if I contract COVID�19 but still want to come to campus?						</a>						<div class="collapse" id="students_04">							<div class="answer">								<p>For fall 2020, classes will be offered in a variety of formats – in person, online, blended, or HyFlex.  Students will have the choice to remain home and participate in online courses or join the residential campus experience.  Every student should make an informed decision on whether to enroll in the online option or take classes in-person. There are heightened and unpredictable he�lth risks associated with the COVID-19 pandemic.  Risks include exposure to asymptomatic carriers of the virus, as well as virus transfer through face-to-face communications and sharing spaces with others. In some cases, Auburn may recommen� that students seriously consider the full online learning option. Ultimately, the final decision resides with the individual student and their hea�th care provider.</p>												�			<p>Students who choose to return to campus for fall 2020 but have concerns about an underlying medical condition should contact the Office of Accessibility to discuss their on-campus living or learning environments.  Students�in this category include those who by diagnosis are immunosuppressed or those who, because of a medical treatment plan, including medication, may have a suppressed immune system. Students requesting a modification to their learning or living environment may be required to provide medical documentation that reflects current status, diagnosis, treatment plan and prescrib�d current medications.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn�question" data-toggle="collapse" href="#students_05" aria-expanded="false" aria-controls="collapseExample">							Will students be allowed to leave campus (e.g., for employment, on weekends)? Can students return to campus if they leave for Thanksgiving Break?						</a>						<div class="collapse" id="student�_05">							<div class="answer">								<p>Auburn University cannot require students to remain on campus at all tim�s. However, students are strongly encoura�ed to minimize their travel and continue to practice all necessary health and safety behaviors while off-campus. Students are not required to return to campus following Thanksgiving break.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_06" aria-expanded="false" aria-controls="collapseExample">							Where can I find �nformation from the Office of Admissions?						</a>						<div class="collapse" id="students_06">							<div class="answer">								<p>Current information for prospective Auburn students can be found o� the <a href="//www.auburn.edu/admissions/">Office of Undergraduate Admissions website</a>.</p>							</div>						</div>					</div>					<div class="alert alert-info">COVID-19 Testing</div>					<div class="item">						<a class="btn que�tion" data-toggle=�collapse" href="#students_testing_01" aria-expanded="false" aria-controls="collapseExample">							Am I required to take a COVID-19 test?						</a>						<div class="collapse" id="students_testing_01">							<div class="answer">								<p>Yes. All students are required to be tested for SARS-CoV-2, the virus that causes COVID-19, 14 days prior to arriving on campus this fall. This requirement is part of Auburn’s comprehensive plan for a safe and healthy return to campus, and testing is facilitated by Testing for Alabama, a statewide initiative, and led by the University of Alabama at Birmingham.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_02� aria-expanded="false" aria-controls="collapseExample">							How do I sign up for testing?						</a>						<div class="collapse" id="students_testing_02">							<div class="answer">								<p>The University of Alabama at Birmingham, on beha�f of Testing for Alabama, will email students with information about testing locations and appointment information. Students may choose to make an appointment for an in-person test or request an at-home test kit to be mailed to them.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_03" aria-expanded="false" aria-controls="collapseExample">							When �o I have to be tested?						</a>						<div class="collapse" id="students_testing_03">							<div class="answer">								<p>Students should be tested 14 days prior to arriving on campus. If a student is unable to take a test before arriving on campus, there will be a testing site at Beard-Eaves Coli�eum available for students.</p>			�			</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_04" aria-expanded="false" aria-controls="collapseExample">							When d�es testing on campus begin?						</a>						<div class="collapse" id="student�_testing_04">							<div class="answer">								<p>Auburn’s testing site will open Aug. 3 at Beard-Eaves Coliseum. Students will receive detailed instructions on how to make an appointment for an on-campus test.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_05" aria-expanded="false" aria-controls="collapseExample">							Do I have to get tested on campus?				�	</a>						<div class="collapse" id="students_testing_05">							<div class="answer">								<p>No. There will be a testing site available on campus, but students may be tested at�any Testing for Alabama site, at an alternative testing location or by using an at-home testing kit.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_06" aria-expanded="false" aria-contro�s="collapseExample">							Where are the Testing for Alabama testing sites?						</a>						<div class="collapse" id="students_testing_06">							<div class="answer">								<p>Testing for Alabama testing sites will be located throughout the state, and students will receive a �ist of specific locatio�s via email.�Auburn’s Testing for Alabama location is Beard-Eaves Coliseum.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_07" aria-expanded="false" aria-controls="collapseExample">							Do I have to pay for testing?						</a>						<div class="collapse" id="students_testing_07">							<di� class="answer">								<p�Tests are free for Auburn students who choose to test on campus, at any of the state’s Testing for Alabama clinics and by using at-home testing kits. Testing costs are covered by the Testing for Alabama initiative. Students may be tested by their physician or at other sites, but the costs of those tests will not be reimbursed by the university.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn que�tion" data-toggle="collapse" href="#students_testing_08" aria-expand�d="false" aria-controls="collapseExample">							What do out-of-state students do for testing?						</a>				�	<div class="collapse" id="students_testing_08">							<div class="answer">								<p>Out-of-state students may request an at-home testing kit. If students prefer to be tested upon arriving at Auburn, they may schedule an appointment to be tested on campus a� Beard-Eaves Coliseum.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_09" aria-expanded="false" aria-controls="collapseExample">							I will arrive on campus before Aug. 3. Where should I go to get tested?						</a>						<div class="collapse"�id="students_testing_09">							<div class="answer">								<p>Students arriving to campus early should request a free at-home testing kit. Alternatively� students may choose to test at another location, such as a physician’s office or urgent care clinic, but they will not be reimbursed for the cost of the test.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_10" aria-expanded="false" aria-controls="collapseExample">							If I am already in Aub�rn, when do I need to be tested?						</a>						<div class="collapse" id="students_testing_10">							<div class="answer">								<p>Students already in Auburn should plan to be tested in early August, by registering for an on-campus appointment or requesting an at-home testing kit.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_11" aria-expanded="false" aria-controls="collapseExample">							How do I receive and administer an at-home test?						</a>						<div class="collapse" id="students_testing_11">							<div class="answer">								<p>At-home testing kits will be mailed via UPS directly to students who request them. The kit will include a link to an informational video explaining the testing process and detailed instructions for returning the sample. Students should return used kits to a UPS drop-off�location within 24 hours of taking the test.</p>					�	</div>						</di�>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_12" aria-expanded="false" aria-controls="collapseExample">							What kind of test is being administered or required?						</a>						<div class="collapse" id="stud�nts_testing_12">							<div class="answer">								<p>The Auburn testing site and the at-home testing kits use a viral PCR test. This test is administered painlessly by taking a swab from just inside the nose—not the more invasive nasopharyngeal swab.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_13" aria-expanded="false" aria-controls="collapseExample">							Will the test hurt?						</a>						<div class="collapse" id="students_testing_13">							<div class="answer">								<p>No, the test is easy and painless.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_14" aria-expanded="false" aria-controls="collapseExample">							I would prefer to be tested on campus when I arrive. Is that possible?						</a>						<div class="collapse" id="students_testing_14">							<div class="answer">								<p>Yes. Tests will be performed on campus at Beard-Eaves Coliseum. Students should schedule appointments in advance by following the instructions emailed to them from Testing Alabama.</p>					�	</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_1�" aria-expanded="false" a�ia-controls="collapseExample">							� am scheduled to be tested in my local community before returning to Auburn. Will you accept the results of that test?						</a>						<div class="collapse" id="students_testing_15">							<div class="answer">								�p>Yes, if the test was administered wi�hin 14 days pri�r to the student’s return to campus. Students will be required to provide documentation of testing. Details regarding documentation of testing will be emailed directly to students’ Auburn email addresses.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_16" aria-expanded="false" aria-controls="collapseExample">							I have already been tested for COVID-19. Do I need to be re-tested?						</a>						<div class="collapse" id="students_testing_16">							<div class="answer">								<p>If a student has tested positive for COVID-19 in the past 12 weeks, they do not have to be re-test�d. Students must provide documentation of their positive test and their health care provider’s medical clearance before returning to campus in the fall. If you have not received�a positive diagnosis within the past 12 weeks, you are required to participate in reentry testing.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_17" aria-expanded="false" aria-controls="collapseExample">							If I take a test at a Testing for Alabama site or through an at-home testing kit, how will I receive the results of my test?						</a>						<div class="collapse" id="students_testing_17">							<div class="answer">								<p>Students who test negative for COVID-19 will receive results via email within 36 hours of testing. If a student tests positive for COVID-19, a university official will contact them �ith results and next steps for protecting themselves and others. If a student who tests positive lives on-campus, they will be required to�move into isolation housing until given medical clearance to return to their on-campus residence. Students who liv� off-campus and test positive will be asked to self-quarantine.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_testing_18" aria-expanded="false" aria-controls="collapseExample">							If I test positive, will Auburn University be notified?						</a>						<div class="collapse" id="students_testing_18">							<div class="answer">								<p>Testing results are confidential. Auburn University and the Alabama Department of Public Health will be notified of any positive results, but personal in�ormation will not be shared.</�>							</div>						</div>					</div>					<div class="alert alert-info">Classes and Academics</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#student�_07" aria-expanded="false" aria-controls="collapseEx�mple">							Will there be changes to the academic calendar?						</a>						<div class="collapse" id="students_07">							<div class="answer">								<p>As Auburn welcomes faculty, staff, and students back to campus, we have made strategic adjustments to our academic calendar. These changes support the health, safety and well-being of the campus and broader community and anticipate a possib�e resurgence of COVID-19 in mid to late fall.</p>																<p>In the modified calendar, all instructional days occur prior to Thanksgiving, and all final exams will be administered remotely after Thanksgiving. Key changes include:</p>																<ul>									<li><p>Aug. 17: Classes begin</p></li>									<li><p>Oct. 8-9: Fall break is suspended, a�d classes will continue to meet<�p></li>									<li><p>Nov. 23-24: Classes will�meet on these two days of Thanksgiving week; students do not have to return to campus after Nov. 24</p></li>									<li><p>Nov. 25-27: Thanksgiving break</p></li>					�			<li><p>Nov. 30 to Dec. 1: Student reading days</p></li>									<li><p>Fall Commencement is scheduled for Dec. 12, contingent on existing�health and safety guidelines.</p></li>								</ul>															</div>						</div>					</div>											<div clas�="item">						<a class="btn question" data-toggle="collapse" href="#students_08" aria-expanded="false" aria-controls="collapseExample">							When and where will Commencement be held?						</a>						<div class="collapse" id="students_08">							<div class="answer">								<p>Commencement fo� Spring and Summer 2020 graduates will be on Saturday, August 8 in Jordan Hare Stadium.  For details, visit <a href="http://www.auburn.edu/academic/provost/graduation/">the graduation website.</a></p>							</div>						</div>					</div>										<div class="item">						<a class="btn qu�stion" data-toggle="collapse" href="#students_09" aria-expanded="false" aria-controls="collapseExample">							What safety protocols will be implemented in classrooms?						</a>						<div class="collapse" id="students_09">							<div class="answer">								<p>Students will b� required to wear face coverings, and the maximum capacities for classrooms will be reduced to 50% of normal capacity. For many rooms, this can be accomplished by leaving one empty seat between each student.  Enh�nced cleaning procedures are in place, with classrooms disinfected nightly. Also, single-use cleaning products are in available classrooms, dining spaces, and other high-traffic areas.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn que�tion" data-toggle="collapse" href="#students_10" a�ia-expanded="false" aria-controls="colla�seExample">							Will the modified S/U Grading Policy from Spring 2020 continue into Fall 2020?						</a>						<div class="collapse" id="students_10">							<div class="answer">								<p>Due to COVID-19, Auburn University expanded the use of Satisfactory/Unsatisfactory grading for Spring Semester 2020. Summer and fall 2020 semesters will see a return to the tradit�onal grading policies.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_11" aria-expanded="false" aria-controls="collapseExample">							What will classes be like?						</a>						<div class="collapse" id="students_11">							<div class="answer">								<p>For fall semester, Auburn will employ four general instructional methods: Face-to-Face, Online, Blended, or HyFlex.  Face�t�-Face courses are conducted in person.  Online courses are conducted online in their entirety.  In blended courses, some instructional activities are conducted in-person while other instructional activities are conducted online. HyFlex courses�are conducted face-to-face but are available onli�e sim�ltaneously.</p>								<p>Faculty will determine which instructional methods best align with the learning outcomes of their courses, and the chosen methods will be published in the University’s scheduling systems by August 1. Students will be able to search courses by instructional metho� and adjust their fall schedules, if desired and seats are available.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_12" aria-expanded="false" aria-controls="collapseExample">							If I miss class due to illness, will I be able to get the course materials?						</a>						<div class="collapse" id="students_12">							<div class="answer">								<p>Faculty should indicate in their syllabi how course content will be provided to students who cannot attend class due to COVID-19-related absences. Faculty should reference the University’s <a href="https://sites.auburn.edu/admin/universitypolicies/Policies/PolicyonClassAttendance.pdf">Policy�on Class Attendance</a> to make arrang�ments for students to complete missed work and/or major examinations. Regardless of the delivery method, all classes will be captured/recorded to ensure availability of material to students.</p>							</d�v>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collap�e" href="#students_13" aria-expanded="false" aria-controls="collapseExample">							Are there specific technology requirements for classes?						</a>						<div class="collapse" id="students_13">							<div class="answer">								<p>To be prepared for the possibility of remote ins�ruction, students should have reliable and regu�ar access to a Windows or Macintosh computer/laptop, a webcam (built-in on the computer or as an additional USB accessory), and off-campus access to broadband Internet. Refer to <a href="https://auburn.service-now.com/it?id=kb_article_view&sysparm_article=KB0011129">the Student Specific Computer Recommendations</a> page for guidance on specific computer recommendations based on your academic program. In the event the University has to transition to remote operations, students with electronic textbooks and other technology needs should contact the AU Bookstore at <a href="mailto:books@auburn.edu">books@aubur�.edu</a>.</p>																<p>To complete the required daily Health Screening, students will need a smartphone or laptop computer. For exposure notification, a smar�phone is required.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_14" aria-expanded="false" aria-controls="collapseExample">							I already registered for fall classes. Will my schedule change?						</a>						<div class="collapse" id="students_14">							<div class="answer">								<p>Your schedule for the fall will not change.  Faculty will determine which instructional methods best align with the learning outcomes of their courses, and the chosen methods (Face-to-Face, Online, Blended, or HyFlex) will be published in the University’s scheduling systems by August 1. Students will be able to search courses by instructional method and adjust their fall schedules, if desired.</p>																<p>Is it possible to receive academic support remotel�?</p>																<p>Yes.  Academic Coaching, Study Partners (peer tutoring), and Supplemental Instruction (SI) are all available through remote delivery. To learn more, visit: <a href="http://academicsupport.auburn.edu/">http://academicsupport.auburn.edu/</a></p>							</di�>						</div>					</div>					<div class="alert alert-info">Tuition and Financial Aid</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_15" aria-expanded="false" aria-controls="collapseExample">							Will there be an adjustment to the price of tuition/housing/din�ng for students�who go home at the end of in-person instruction?						</a>						<�iv class="collapse" id="students_15">							<div class="answer">								<p>No. Courses will transition to remote delivery for finals aft�r Thanksgiving break.  In addition, the residential halls and di�ing venues will remain open for students who need/decide to remain on campus after Thanksgiving. Fall contracts will continue through the end of the fall semester.</p>							</div>						</div>					</div>											<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_16" aria-expanded="false" aria-controls="collapseExample">							Is there a discount for courses taught online?						</a>						<div class="�ollapse" id="students_16">							<div class="answer">								<p>Auburn’s tuition and fee structure have been established regardless of the method of instruction. Tuition�and fees will not be altered in the event that the mode of instruction is changed for any course for all or part of the semester. Auburn remains commi�ted to offering the highest quality academic experience and will maintain the high quality of instruction that s�udents expect while earning their degrees, regardless of the mode of course delivery. Auburn’s faculty �ill continue to teach courses, and the course curricula will con�inue to prioritize the learning outcomes that faculty have established.</p>							</div>						</div>					</div>					<div class="alert alert-info">Housing and Dining</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_17" aria-expanded="false" ari�-controls="collapseExample">							Will there be an adjustment to the price of tuition/housing/dining for students who go home at the end of in-�erson instruction?						</a>						<div class="collapse" id="students_17">							<div class="answer">								<p>No. Courses will transition to remote delivery for finals after Thanksgiving break.  In addition, the residential halls and dining venues will remain open for students who need/decide to remain on campus after Thanksgiving. Fall contracts will continue through the end of the fall semester.</p>							</div>						</div>					</div>											<div class=�item">						<a class="btn question" data-toggle="collapse" href="#students_18" aria-expanded="false" aria-controls="collapseExam�le">							What housing changes can I expect?						</a>						<div class="collapse"�id="students_18">							<div class="answer">								<p>A staged return of students to campus housing is planned to de-densify activities ahead of the first day of classes.  The move-in process has been streamlined, and a new curbside check-in allows for greater physical distancing.  Furniture in common a�eas has been reconfigured to promote physical distancing. Enhanced and increased cleaning procedures will be used in common areas, and kits of cleaning supplies will also�be available to students.  For �tudents who must quarantine after�testing positive for COVID-19, a block of isolation rooms is reserved on-c�mpus.</p>																<p>More information on fall 2020 housing is available on <a href="//auburn.edu/adm�nistration/housing/resi�entInformation/moveIn/">the University Housing website</a>.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_19" aria-expanded="false" aria-controls="collapseExample">							How will move-in be different this year?						</a>						<div class="collapse" id="studen�s_19">							<div class="answer">								<p>Move-in will take place over several days to allow for proper physical distancing. The check-in process will be a curbside check-in. Residents will drive up to their designated c�ntralized location and receive a welcome packet and their room key. To maximize the health and safety of our residents, there will be no volunteers available to assist during move-in. Additionally, we will be unable to provide move-i� equipment to assist with move-in. Students are welcome to bring their own items, such as wagons or dollies, to campus with them.</p>												�			<p>Other safety protocols includ�:</p>																<ul>									<li><p>Students and families will be expect�d to wear a face mask while on campus.</p></li>									<li><p>Hand sanitizer will be provided inside all residential areas and buildings.</p></li>									<li><p>Elevator capacity will be limited to maintain a 6-foot distance between all occupants.</p></li>									<li><p>Physical distancing will be expected of residents and their families while on campus.</p></li>								</ul>															</div>						</div>	�			</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#stud�nts_20" aria-expanded="false" aria-controls="collapseExample">							Will I still be able to have visitors to my residence hall room this fall?						</a>						<div class="collapse" id="students_20">							<div class="answer">								<p>Visitors that do not live in the residence halls will not be allowed entry into any of the residence halls. Depending on federal and state guidance, and as COVID-19 cases decrease statewide and nationally, visitation policies will be amended to lessen restrictions.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_�1" aria-expanded="false" aria-controls="collapseExample">		�				Will I have to wear a mask in my residence hall?						</a>						<div class="collapse" id="students_21">							<div class="answer">								<p>Al� residents will be required to wear a mask upon entering the residence hall. Masks may be removed once the resident has en�ered their personal room.</p>							�/div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#s�udents_22" aria-expanded="false" aria-controls="collapseExample">		�				What housing options do I have if I am immuno-compromised?						</a>						<div cla�s="collapse" id="students_22">							<div class="answer">								<p>If you have a health condition and need a special accommod�tion to your housing assignment, please contact the Office of Accessibility.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="col�apse" href="#students_23" aria-expanded="false" aria-controls="collapseExample">							What is the plan fo� on-campus dining?						</a>						<div class="collapse" id="students_23">							<div class="answer">								<p>Tiger Dining h�s been working to make sure we adhere to physical distancing and other health and safety guidelines. At the same time, we want students to have options with nutritious and high-quality food.</p>																<p>Changes you will see this fall include:</p>																<ul>									<li><p>Contactless payment will be available at all locations.</p></li>									<li><p>Grubhub kiosks will be added for students to place grab-and-go orders.</p></li>									<li><p>A variety of carry-out options, including meal kits, will be available.</p></li>									<li><p>Seating capacity has been reduced by 50 percent, and new entry-exit and queuing procedures will be in place.</p></li>									<li><p>Enhanced cleaning measures will be utilized, and sanitizing wipes are readily avail�ble for student use.</p></li>								</ul>															</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_24" aria-expanded="false" aria�controls="collapseExample">							W�ll I still be able to use the Campus Food Pantry this fall?					�</a>						<div class="collapse" id="students_24">							<div class="answer">								<p>Yes, Auburn Cares will offer contactless pick up for Campus Food Pantry users.  New Cam�us Food Pantry users will complete initial paperwork and meet with an Auburn Cares staff member via Zoom, and then they can sign up to recei�e pre-stocked food bags.  To learn more, visit <a href="http://aucares.auburn.edu/student-ser�ices/campus-food-pantr�/">the Auburn Cares website</a>.</p>							</div>						<�div>					</div>					<div class="alert alert-info">Student Life</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_25" aria-expanded="false" aria-controls="collapseExample">	�					�ith all the physical distancing/mask requirements, will students be able to make friends?						</a>						<div class="collapse" id="students_25">							<div class="answer">								<p>Yes, the Auburn experience is centered around the campus community, and we are leveraging technology to keep students safe and connected.  Welcome Week and other student events will incorporate more outdoor and virtual events to minimize crowds and physical contact. A mobile check-in process using AUinvolve for all events supports contact tracing efforts, if needed.  Using <a href="//wp.auburn.edu/involve/organization-resources/virtual-organization-management/">Virtual Student Organization resources</a>, our 550 reco�nized student organizations can continue, even if groups are unable to meet in-person.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_26" aria-expanded="false" aria-controls="collapseExample">							If there are event-size limits, will student organizations still meet this fall?						</a>						<div cl�ss="collapse" id="students_26">							<�iv class="answer">								<p>Yes.  We know that your experience outside of the classroom is critical. To ensure your organizations can continue meeting this fall, we have a host of resources for <a href="//wp.auburn.edu/involve/organization-resources/virtual-organization-management/">virtual organization management</a>. Training opportunities will�be made available in multiple formats allowing for in-person and remote traini�g for organization leaders. AUinvolve will continue to serve as the best place to learn about various organizations’ events – whether they are hosted in person or virtually.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-t�ggle="collapse" href="#students_27" aria-expand�d="false" aria-controls="collapseExample">							Will�there be Greek Life activities this fal�?						</a>						<div class="collapse" id="students_27">							<div class="answer">								<p>Yes. Greek Life is considering the best ways to conduct their traditional programming (e.g., recruitment, educationa� programs, membership development and initiation programs) to continue in an a�tered format that is consistent with campus health and safety regulations.</p>																<p>Visit the <a href="//greeklife.auburn.edu�">Greek Life website</a></p>							�/div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_28" aria-expanded="false" aria-controls="collapseExample">							Will there be football and other sports this fall?						</a>						<div class="co�lapse" id="students_28">							<div class="answer">								<p>We definitely hope to play all sports this fall, but will rely on state health orders to make these determinations.  We will provide information as it becomes available.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_29" aria-expanded="false" aria-controls="collapseExa�ple">							Will Campus Rec be open? Will there be intramural sports or events on campus?						</a>						�div class="collapse" id="students_29">							<div class="answer">								<p>Campus Recreation looks forward to welcoming students, faculty, and staff into the Recreation and Wellness Center when safety protocols are fully implemented. The physical and mental health of our members is our first priority. We plan to open Campus Recreation facilities conservatively and expand programs as conditions allow.</p>																<p>To reopen safely, we have prioritized physical distancing and de-densification, while also enhancing our high standards of health, safety, and cleanliness.�This plan is subject to change based on University guidance, state guidelines, the CDC, and new developments in COVID-19 research.</p>														�	<p>Upon re-opening, the following amenities will be available with physical distancing guidelines.</p>																<p><strong>Facility</strong></p>																<ul>									<li>Track</li>									<li>Strength at limited capacity (no free weights)</li>									<li>Light �trength at limited capacity (no free weights)</li>									<li>Cardio (limited capacity)</li>									<li>Leisure/activity pool</li>									<li>Locker rooms (no showers)</li>								</ul>																<p><strong>Auburn Outdoors (by appointment only)</strong></p>																<ul>									<li>Rental Center</li>									<li>Bike Shop</li>								</ul>																<p><strong>Group Fitness</strong></p>																<ul>									<li>Limited on-site classes per week</li>									<li>Virtual classes via Zoom</li>								</ul>																<p><strong>Courts</strong></p>																<ul>									<li>Basketball* (1 person per half court)</li>									<li>Racquetball/Squash* (1 person per court)</li>									*May increase based on change in guidelines								</ul>																<p>Some programs and service� will be unavailable including Auburn Outdoors trips, the climbing towers and bouldering wall, Olympic and powerlifting, personal training, and day-use �ockers.  Intramural team sports where physical distancing cannot be maintained will also not occur.  Club Sports are currently under review.</p>																<ul>									<li><p>Intramural Sports (team sports where physical distancing cannot be maintained)</p></li>									<li><p>Olympic and Powerlifting</p></li>									<li><p>Personal Training</p></li>									<li><p>Day-use lockers</p></li>								</ul>															</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="col�apse" href="#students_30" aria-expanded="false" aria-controls="col�apseExample">							Where can we go (or not go) on campus? Will there be places for studying and soc�alizing outside of classrooms and residence halls?						</a>						<div class="collapse" id="students_30">							<div class="answer">								<p>This fall, spaces for study and student life activities will be available. De-densification will be necessary for safety reasons in Auburn’s libraries, computer labs, dining venues, and other group gathering spaces. Plans are still being developed and more information will be available soon.</p>							</div>						</div>�				</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_31" aria-expanded="false" aria-controls="collapseExample">							Will students be allowed to leave campus (e.g., for employment, on weekends)? Can students return to campus if they leave for Thanksgiving Break?			�		</a>						<div class="collapse" �d="students_31">							<div class="answer">								<p>Auburn University �oes not require students to remain on campus at all times. However, students are strongly encouraged to minimize their travel and continue to prac�ice all necessary heal�h and safety behaviors while off-campus.</p>							</div>						</div�					</div>					<div class="alert a�ert-info">Health and Wellness</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_32" aria-e�panded="false" aria-controls="collapseExample">							What�measures is Auburn taking in preparation for a safe return to campus activity?						</a>						<div class="collapse" id="students_32">							<div class="answer">								<p>A Healthier U is the University’s comprehensive and evolving plan to keep our campus and our community healthy and s�fe by limiting the spread of COVID-19.</p>								<p>Read the student plan outlined in <a href="//auburn.edu/ahealthieru/student.php">the AHealthierU Plan</a>.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-tog�le="collapse" href="#students_33" aria-expanded="false" aria-controls="collapseExample">							Will I have to answer health questions to go to class?						</a>						<div class="collapse" id="students_�3">							<div class="answer">								<p>Yes.  Heath screening will be enabled through Healthcheck, a COVID-19 assessment tool that allows individuals to report COVID-19 health statu�, symptoms, and exposure. Students are required to complete the screening each day before they come to campus. By responding to a series of screener questions regarding symptoms, the daily health screening pro�ides a ‘pass’ for the student to move around campus (i.e., a green screen indicates the student is cleared to move around campus, whereas a red screen indicates the student should not be on campus). Students who report specific conditions will be instructed to contact the Medical Clinic for evaluation and possible testing. Students will not be tested unless recommended by the Medical Clinic.</p>							</div>						</div>					</div>					<div class="item">						<a class="b�n question" data-toggle="collapse" href="#students_34" aria-expanded="false" aria-controls="collapseExample">							Will I be noti�ied if I have been exposed to COVID-19?						</a>						<div class="collapse" id="students_34">							<div class="answer">								<p>In conjunction with the Alabama Department of Public Health, Auburn will implement a proximity/exposure notification application as part of the platform. Individuals will be able to use t�e app to report a positive test result and anonymously notify other individuals with whom the person with the positive test result has been in proximity and may have been exposed to the virus. The benefit of downloading and using the application is that it will help improve tracing efforts to reduce the spread of the virus. Use of the application is voluntary, but strongly encouraged.</p>								<p>All information collected by the STAY SAFE TOGETHER™ platform will be collected and stored in HIPAA-compliant servers. The information collected is held anonymously and there are no identifying�values that can l�nk the information to the pa�ticipant. The generalized information will help the university mitigate possible spread of the virus and support the efforts of the Alabama Department of Public Health to protect individuals from COVID-19.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_35" aria-expanded="false" aria-controls="collapseExample">							What if I have a medical condition that makes me vulnerable to serious illness if I contract COV�D-19 but still want to come to campus?						</a>						<div class="collapse" id="students_35">							<div class="answer">								<p>For fall 2020, classes will be offered in a variety of formats – in person, online,�blended, or HyFlex.  Students will have the choice to remain home and participate in online courses or join the residential campus experience.  Every student should make an informed decision on whether to enroll in the online option or take classes in-person. There are heightened and�unpredictable health risks associated with the COVID-19 pandemic.  Risks include exposure to asymptomatic carriers of the virus, as well as virus transfer through face-to-face communications and sharing spaces with others. In some cases, Auburn may recommend that students seriously consider the fully online learning option. Ultimately, the final decision resides with the �ndividual student and their health care provider.</p>								<p>Students who choose to be on-campus for fall 2020 but have concerns about an underlying m�dical condition should contact the Office of Accessibility to discuss the�r on-campus living or learning environments.  Students in this category include those who by diagnosis are immunosuppressed or those who, because of a medical treatment plan, including medication, may have a suppressed immun� system. Students requesting a modification to their learning or living environment may be required to provide medical documentation that reflect current status, diagnosis, treatment plan and prescribed current medications.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_36" aria-expanded="false" aria-�ontrols="collapseExample">							What housing options do I have if I am immuno-compromised?						</a>						<div class="collapse" id="students_36">							<div class="answer">								<p>If you have a health condition and need an accommodation to your housing assignment, please contact th� Office of Accessibility.</p>							</div>						</div>					</div>			�	<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_37" aria-expanded="false" aria-controls="collapseExample">							Will there still be access to mental health resources this Fall?						</a>						<div class="collapse" id="students_37">							<div class="answer">								<p>Absolutely.  Student Counseling & Psychological Services will continue to provide comprehensive preventative and clinical mental health services to students,  including counseling and psy�hiatric services.  Individual consultations by phone and tele-mental health for individual therapy, group therapy, and psychiatric services are available.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_38" aria-expanded="false" aria-controls="collapseExample">							I feel overwhelmed by everything happening as part of COVID-19.  Are there any resources to help me?						</a>						<div class="collapse" id="students_38">							<div class="answer">								<p>The outbreak of coronavirus disease (COVID-19) has been stressful for many people and communities. Fear about the spread of COVID-19 can be overwhelming and cause various emotional responses.  Student Counseling & Psychological Services has <a href="//wp.auburn.edu/scs/while-you-wait-dur�ng-covid-19/">a website filled with resources</a> for you during thi� t�me.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_39" aria-expanded="false" aria-controls="collapseE�ample">							Will I have to wear a face cove�ing?						</a>						<div class="collapse" id="students_39">							<div class="answer">								<p>Wearing face coverings greatly reduces the chances of COVID-19 transmission, protecting those around us. Auburn University requires face coverings inside all university buildings, including classrooms and laboratories. This requirement applies to everyone on campus and also extends to those attending university events in non-university buildings. Students will be encouraged to bring at least three face coverings with them to campus. By wearing a face covering, you can help protect the people around you and encourage others to do the same.</p>							</div>						</div>					</div>					<div class="item">						<a class="b�n question" data-toggle="collapse" href="#students_40" aria-expanded="false" aria-controls="collapseExample">							Can I still use the Medical Clinic this fall?						</a>						<div class="collapse" id="students_40">							<div class="answer">								<p>Yes.  The Auburn University Medical Clinic will�continue to provide a �ull range of primary, preventative, and urgent medical care services for Auburn students, faculty, staff, visitors, and members of the surrounding community.</p>																<p>To ensure that our clinic is safe for all patients, we have implemented the following:</p>																<ul>									<li><p>Cleaning and disinfecting. All areas and surfaces are cleaned and disinfected frequently throughout the day. Our building�is also thoroughly cleaned and disinfected every �ight.</p></li>									<li><p>No one enters the building without being screened first. We are asking all patients to call 334-844-9825 to answer a series of screening questions. Patients�with COVID-19 symptoms do not come inside the clinic. They are seen either outside at our testing site or via a Telehealth appoin�ment.</p></li>									<li><p>Personal Protective Equipment. All staff members that have contact with patients are required to wear at a minimum a face covering. We are following the CDC Guidelin�s on this requirement. If a patient is sick (and we have ruled out COVID-19)�they must wear a face covering before entering the building.</p></li>									<li><p>Physical Distancing. All patients must practice physical distancing while in our clinic, and sit at least 6 feet apart from other patients in the waiting room. Kiosk usage is staggered to gu�rantee physical distancing during check-in.</p></li>			�					<li><p>Staff Monitoring. Staff members' temperatures and symptoms are monitored daily. If a staff member presents with any CO�ID-19 symptoms, they are tested and sent home immediately.</p></li>									<li><p>No Visitors. We are not allowing people to accompany patients to their visits in the Medical Clinic.</p></li>								</ul>															</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#stude�ts_41" aria-expanded="false" aria-controls="collapseExample">							Will Auburn have the capability to test for COVID-19 on campus?						</a>						<div class="collapse" id="students_41">							<div class="answer">								<p>Yes. The Auburn University Medical Clinic is testing s�mptom�tic and asymptomatic patients. If you are having symptoms, have had known exposure but do not have symptoms, or need a test to return to work or to visit family you can call 334-844-9825 to answer a series of questions and setup an appointment.</p>																<p>Our drive-thru testing site is located in the South Quad parking�deck next to our clinic. It is quick, easy, and confidential. Best of all, you should get your results the same day.</p>							</div>						</div>					</div>					<div class="item">						<a class="btn question" data-toggle="collapse" href="#students_42" aria�expanded�"false" aria-controls="collapseExample">							Does Auburn have a plan in place in the event of a campus or community outbreak of COVID-19?						</a>						<div class="collapse" id="stude�ts_42">							<div class="answer">								<p>Yes. University leadership is developing a range of contingency plans based on situations and circumstances that might occur and that may require Auburn to pause or shut down some or all activities.</p>																<p>To prepare for this scenario, however likely or unlikely, Auburn is taking into careful consideration surrounding healthcare and treatment capabilities, on-campus testing capacities, and available isolation and quarantine capabilities on and around campus.</p>																<p>Contingency planning is also taking into accou�t what is happening in the surrounding community as well as federal and state guidelin�s.</p>																<p>Existing efforts, such as building resilient pedagogies that can adapt if a student must be isolated following a positive virus test, support our contingency planning.</p>							</di�>						</div>					</div>								</div>											</div>�	</div>		</div>					<div class="content_row lastUpdateRow">		<div class="content_container">			<div class="lastUpdate">				Last updated:  July 10, 2020			</div>		</div>	</div></div><footer>	<div class="content_container clearfix">    	        <div class="footer_col col-sm-4 col_1">        	<div class="footer_col_logo">            	<img src="//www.auburn.edu/template/2016/_assets/images/au_logos/brandingimage-02.png" alt=""�			</div>        </div>                <div class="footer_col col-sm-4 col_2">        	<div class="col-xs-6">            	<div class="h4">Contact</div>				<a href="https://www.google.com/maps/place/Samford+Hall,+182+S+College+St,+Auburn+University,+AL+36849/@32.60474�1,-85.4849814,17z/data=!3m1!4b1!4m5!3m4!1s0x888cf31cea067167:0xbe475215b4�ce95f!8m2!3d32.6047401!4d-85.4827927" target="_blank"> �              Auburn University<br/>                Auburn, Alabama 36849</a><br/>                <a href="tel:3348444000">(334) 844-4000</a><br/>                <a href="http://www.auburn.edu/websitefeedback/" target="_blank">Website Feedback</a><br/>				<a href="mail�o:webmaster@auburn.edu">Webmaster</a>			</div>            <div class="col-xs-6">            	<div class="h4">Connect</div>                <a href="http://www.facebook.com/auburnu" title="Auburn University Facebook page" target="_blank">Facebook</a><br/>                <a href="http://twitter.com/auburnu" title="Auburn University Twitter" target="_blank">Twitter</a><br/>                <a href="https://instagram.com/auburnu" title="Auburn University Instagram" targe�="_blank">Instagram</a><br/>                <a href="http://www.youtube.com/AuburnUniversity" title="Auburn University YouTube channel" target="_blank">YouTube</a><br/>            </div>            <div style="clear:both;"></div>        </div>                <div class="footer_col col-sm-4 col_3">               <br/><br/>           �    <a href="http://www.auburn.edu/accessibility" target="_blank">Ca�pus Accessibility</a><br/>        <a href="http://www.auburn.edu/privacy� target="_blank">Privacy Statement</a><br/>        <a href="http://www.auburn.edu/copyright">Copyright &copy; <script>date = new Date(); document.write(date.getFullYear());</script></a>        </div>            </div>    <div class="to-top"><a href="#top"><span class="sr-only">Back to Top</span></a></div><!-- FOOTER JAVA SCRIPTS --><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> <script src="https://cdn.auburn.edu/assets/js/bootstrap.min.js"></script> <!-- Google Analytics Tracking Code --><script>$(function(){	GATC();	$('#cookieAcknowledge').on('click',function(){		var d = new Date();		// set expiration date for one year		d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000));		var expires = "expires="+d.toUTCString();		document.cookie = "auburnGDPR=acknowledged; " + expires + "; doma�n=.auburn.edu; path=/";		$("#gdpr")�fadeOut();	});/*	$('#cookieAccept').on('click',function(){		var d = new Date();		// set expiration date for one year		d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000));		var expi�es = "expires="+d.toUTCString();		document.cookie = "auburnGATC=accept; " + expires + "; domain=.auburn.edu; path=/";		$("#gdpr").fadeOut();				GATC()�	});	$('#cookieDeny').on('click',function(){		var d = new Date();		// set expiration date for one year		d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000));		var expires = "expires="+d.toUTCString();		document.cookie = "auburnGATC=deny; " + expires + "; domain=.auburn.edu; path=/";		$("#gdpr").fadeOut();	});*/	$('#cookieExpire').on('click',function(){		document.cookie = "auburnGDPR=deny; expires=Sat, 16 Feb 1980 12:05:00 UTC; domain=.auburn.edu; path=/";		$("#curStatus").text("Cookies has expired.");		$("#gdpr").fadeOut();	});	$('#pageRefresh').on('click',function(){		window.location.reload(false);	});	var cookieStatus = getCookie("auburnGDPR");	if (coo�ieStatus === "acknowledged") {		$("#gdpr").hide();         �      $("#curStatus").text("Cookies were previously acknowledged.");	/*	GATC();	} else if (cookieStatus === "deny") {		$("#gdpr").hide();*/	} else {		$("#gdpr").fadeIn();	}});function getCookie(cname) {    var name = cname + "=";    var ca = document.cookie.split(';');    for(var i = 0; i < ca.length; i++) {        var c = ca[i];        while (c.charAt(0) == ' ') {            c = c.substring(1);        }        if (c.indexOf(name) == 0) {            return c.substring(name.length, c.length);        }    }    return "";}function GATC(){  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(argume�ts)},i[�].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-2228003-3', 'auto');  // AU Tracker  ga('set',�'anonymizeIp', true); // Anonymize IP  ga('send', 'pageview');    };</script></footer></body></html>
