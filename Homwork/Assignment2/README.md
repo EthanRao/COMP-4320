@@ -6,7 +6,7 @@
 
 Penalty for late work is 20 points per day late.
 
-There are 6 questions; make sure you answer all the questions.
+## There are 6 questions; make sure you answer all the questions.
 
 **1. Consider an HTTP client that wants to retrieve a Web document at a given URL. The IP address of the HTTP server is initially unknown. What transport and application-layer protocols besides HTTP are needed in this scenario?**
 
