@@ -11,5 +11,25 @@ We have 2 Projects.
 
 ## Exam
 + Exam1 (34 Questions in 1 Hour)
-+ Exam2 (xx Questions in 1 Hour)
+    
+    - Chapter1
+    
+    - Chapter2
+    
++ Exam2 (40 Questions in 1 Hour)
+    
+    - Chapter2 (second part)
+    
+    - Chapter3 
+    
+    - Chapter4
+    
 + Final Exam
+
+    - Chapter1
+    
+    - Chapter2 
+    
+    - Chapter3 
+    
+    - Chapter4
