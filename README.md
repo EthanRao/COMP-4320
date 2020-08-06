@@ -24,7 +24,7 @@ We have 2 Projects.
     
     - Chapter4
     
-+ Final Exam
++ Final Exam (53 Questions in 2.5 Hours)
 
     - Chapter1
     
